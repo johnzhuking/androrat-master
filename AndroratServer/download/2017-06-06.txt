@@ -1,346 +1,0 @@
-时间:2017-06-06 14:29:33文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:29:33 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:29:51文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:29:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:29:52文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:29:52 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:29:52文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:29:52 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 14:33:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:33:29 CST 2017 Preference data has been received
-
-时间:2017-06-06 14:33:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:33:29 CST 2017 Information data has been received
-
-时间:2017-06-06 14:33:33文件名:GUI.java类名:gui.GUI方法名:logErrTxt行号:113行信息:Tue Jun 06 14:33:33 CST 2017 Client ended gently !
-
-时间:2017-06-06 14:33:33文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:33:33 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 14:33:53文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:33:53 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:33:53文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:33:53 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:33:53文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:33:53 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 14:35:08文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:35:08 CST 2017 Preference data has been received
-
-时间:2017-06-06 14:35:08文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:35:08 CST 2017 Information data has been received
-
-时间:2017-06-06 14:38:54文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:38:54 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 14:38:54文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:38:54 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:38:54文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:38:54 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:38:54文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:38:54 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 14:42:43文件名:GUI.java类名:gui.GUI方法名:logErrTxt行号:113行信息:Tue Jun 06 14:42:43 CST 2017 Client ended gently !
-
-时间:2017-06-06 14:42:43文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:42:43 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 14:42:56文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:42:56 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:42:56文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:42:56 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:42:56文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:42:56 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 14:47:57文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:47:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 14:47:57文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:47:57 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:47:57文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:47:57 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:47:57文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:47:57 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 14:53:59文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:53:59 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 14:54:00文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:54:00 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:54:00文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:54:00 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:54:00文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:54:00 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 14:54:25文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:54:25 CST 2017 Preference data has been received
-
-时间:2017-06-06 14:54:25文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:54:25 CST 2017 Information data has been received
-
-时间:2017-06-06 14:59:01文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:59:01 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 14:59:01文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:59:01 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 14:59:01文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:59:01 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 14:59:01文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 14:59:01 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:05:03文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:05:03 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:05:04文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:05:04 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:05:04文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:05:04 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:05:04文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:05:04 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:10:05文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:10:05 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:10:05文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:10:05 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:10:05文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:10:05 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:10:05文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:10:05 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:12:58文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:12:58 CST 2017 Preference data has been received
-
-时间:2017-06-06 15:12:59文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:12:59 CST 2017 Information data has been received
-
-时间:2017-06-06 15:16:07文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:16:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:16:07文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:16:07 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:16:07文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:16:07 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:16:07文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:16:07 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:21:09文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:21:09 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:21:09文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:21:09 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:21:09文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:21:09 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:21:09文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:21:09 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:26:11文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:26:11 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:27:11文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:27:11 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:27:11文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:27:11 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:27:11文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:27:11 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:32:13文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:32:13 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:32:13文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:32:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:32:13文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:32:13 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:32:13文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:32:13 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:32:51文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:32:51 CST 2017 Preference data has been received
-
-时间:2017-06-06 15:32:51文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:32:51 CST 2017 Information data has been received
-
-时间:2017-06-06 15:37:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:37:15 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:38:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:38:15 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:38:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:38:15 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:38:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:38:15 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:43:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:43:17 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:43:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:43:17 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:43:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:43:17 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:43:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:43:17 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:48:19文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:48:19 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:48:19文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:48:19 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:48:19文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:48:19 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:48:19文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:48:19 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:54:20文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:54:20 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 15:54:21文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:54:21 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 15:54:21文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:54:21 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 15:54:21文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:54:21 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 15:59:23文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 15:59:23 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:00:21文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:00:21 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:00:21文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:00:21 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:00:21文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:00:21 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:05:24文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:05:24 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:06:23文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:06:23 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:06:23文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:06:23 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:06:23文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:06:23 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:11:26文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:11:26 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:11:27文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:11:27 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:11:27文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:11:27 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:11:27文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:11:27 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:17:26文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:17:26 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:17:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:17:29 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:17:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:17:29 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:17:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:17:29 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:22:31文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:22:31 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:22:31文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:22:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:22:31文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:22:31 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:22:31文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:22:31 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:28:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:28:29 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:28:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:28:29 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:28:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:28:29 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:28:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:28:29 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:33:36文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:33:36 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:33:36文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:33:36 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:33:36文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:33:36 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:33:36文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:33:36 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:39:33文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:39:33 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:39:39文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:39:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:39:39文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:39:39 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:39:39文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:39:39 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:44:42文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:44:42 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:44:42文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:44:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:44:42文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:44:42 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:44:42文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:44:42 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:49:09文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:49:09 CST 2017 Preference data has been received
-
-时间:2017-06-06 16:49:09文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:49:09 CST 2017 Information data has been received
-
-时间:2017-06-06 16:50:37文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:50:37 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:50:45文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:50:45 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:50:45文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:50:45 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:50:45文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:50:45 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:52:08文件名:GUI.java类名:gui.GUI方法名:logErrTxt行号:113行信息:Tue Jun 06 16:52:08 CST 2017 Client ended gently !
-
-时间:2017-06-06 16:52:08文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:52:08 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:52:08文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:52:08 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:52:08文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:52:08 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:52:08文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:52:08 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 16:52:13文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:52:13 CST 2017 Preference data has been received
-
-时间:2017-06-06 16:52:14文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:52:14 CST 2017 Information data has been received
-
-时间:2017-06-06 16:57:11文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:57:11 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 16:58:12文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:58:12 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 16:58:12文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:58:12 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 16:58:12文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 16:58:12 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:03:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:03:15 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:03:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:03:15 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:03:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:03:15 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:03:15文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:03:15 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:09:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:09:17 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:09:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:09:17 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:09:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:09:17 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:09:17文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:09:17 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:14:20文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:14:20 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:14:20文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:14:20 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:14:20文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:14:20 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:14:20文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:14:20 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:19:22文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:19:22 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:20:22文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:20:22 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:20:22文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:20:22 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:20:22文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:20:22 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:26:25文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:26:25 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:26:25文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:26:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:26:25文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:26:25 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:26:25文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:26:25 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:31:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:31:29 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:31:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:31:29 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:31:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:31:29 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:31:29文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:31:29 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:36:32文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:36:32 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:37:32文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:37:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:37:32文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:37:32 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:37:32文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:37:32 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:42:35文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:42:35 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:42:35文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:42:35 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:42:35文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:42:35 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:42:35文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:42:35 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:47:37文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:47:37 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:47:37文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:47:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:47:37文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:47:37 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:47:37文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:47:37 CST 2017 SERVER online, awaiting for a client...
-
-时间:2017-06-06 17:53:40文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:53:40 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
-
-时间:2017-06-06 17:53:40文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:53:40 CST 2017 CONNECT command received from 864294038496919
-
-时间:2017-06-06 17:53:40文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:53:40 CST 2017 Connection established,temporary IMEI was assigned: 0client
-
-时间:2017-06-06 17:53:40文件名:GUI.java类名:gui.GUI方法名:logTxt行号:118行信息:Tue Jun 06 17:53:40 CST 2017 SERVER online, awaiting for a client...
-
