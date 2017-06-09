@@ -1,0 +1,3590 @@
+时间:2017-06-08 08:47:03信息:Thu Jun 08 08:47:03 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:47:11信息:Thu Jun 08 08:47:11 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:47:11信息:Thu Jun 08 08:47:11 CST 2017 result=3
+
+时间:2017-06-08 08:47:11信息:Thu Jun 08 08:47:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:47:11信息:Thu Jun 08 08:47:11 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:47:11信息:Thu Jun 08 08:47:11 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:48:08信息:Thu Jun 08 08:48:08 CST 2017 channel=584
+
+时间:2017-06-08 08:48:08信息:Thu Jun 08 08:48:08 CST 2017 command:121;channel=584;imei = 864294038496919
+
+时间:2017-06-08 08:48:08信息:Thu Jun 08 08:48:08 CST 2017 channel=497
+
+时间:2017-06-08 08:48:08信息:Thu Jun 08 08:48:08 CST 2017 command:21;channel=497;imei = 864294038496919
+
+时间:2017-06-08 08:48:09信息:Thu Jun 08 08:48:09 CST 2017 result=3
+
+时间:2017-06-08 08:48:09信息:Thu Jun 08 08:48:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:48:09信息:Thu Jun 08 08:48:09 CST 2017 Preference data has been received
+
+时间:2017-06-08 08:48:09信息:Thu Jun 08 08:48:09 CST 2017 result=3
+
+时间:2017-06-08 08:48:09信息:Thu Jun 08 08:48:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:48:09信息:Thu Jun 08 08:48:09 CST 2017 Information data has been received
+
+时间:2017-06-08 08:50:11信息:Thu Jun 08 08:50:11 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:50:11信息:Thu Jun 08 08:50:11 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:50:11信息:Thu Jun 08 08:50:11 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 result=3
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 Client ended gently !
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 result=3
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:50:12信息:Thu Jun 08 08:50:12 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 result=3
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Client ended gently !
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 result=3
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:53:13信息:Thu Jun 08 08:53:13 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 result=3
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Client ended gently !
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 result=3
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:56:14信息:Thu Jun 08 08:56:14 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 result=3
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Client ended gently !
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 result=3
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 08:59:16信息:Thu Jun 08 08:59:16 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 result=3
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:02:17信息:Thu Jun 08 09:02:17 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:02:18信息:Thu Jun 08 09:02:18 CST 2017 result=3
+
+时间:2017-06-08 09:02:18信息:Thu Jun 08 09:02:18 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:02:18信息:Thu Jun 08 09:02:18 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:05:19信息:Thu Jun 08 09:05:19 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:05:19信息:Thu Jun 08 09:05:19 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:05:19信息:Thu Jun 08 09:05:19 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 result=3
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 result=3
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:05:20信息:Thu Jun 08 09:05:20 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 result=3
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 result=3
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:08:22信息:Thu Jun 08 09:08:22 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:08:30信息:Thu Jun 08 09:08:30 CST 2017 channel=122
+
+时间:2017-06-08 09:08:30信息:Thu Jun 08 09:08:30 CST 2017 command:121;channel=122;imei = 864294038496919
+
+时间:2017-06-08 09:08:30信息:Thu Jun 08 09:08:30 CST 2017 channel=645
+
+时间:2017-06-08 09:08:30信息:Thu Jun 08 09:08:30 CST 2017 command:21;channel=645;imei = 864294038496919
+
+时间:2017-06-08 09:08:31信息:Thu Jun 08 09:08:31 CST 2017 result=3
+
+时间:2017-06-08 09:08:31信息:Thu Jun 08 09:08:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:08:31信息:Thu Jun 08 09:08:31 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:08:31信息:Thu Jun 08 09:08:31 CST 2017 result=3
+
+时间:2017-06-08 09:08:31信息:Thu Jun 08 09:08:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:08:31信息:Thu Jun 08 09:08:31 CST 2017 Information data has been received
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 result=3
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 result=3
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:11:25信息:Thu Jun 08 09:11:25 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:11:29信息:Thu Jun 08 09:11:29 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:11:34信息:Thu Jun 08 09:11:34 CST 2017 Client not available anymore. Cannot send command: 121
+
+时间:2017-06-08 09:11:34信息:Thu Jun 08 09:11:34 CST 2017 Client not available anymore. Cannot send command: 21
+
+时间:2017-06-08 09:11:39信息:Thu Jun 08 09:11:39 CST 2017 Client not available anymore. Cannot send command: 109
+
+时间:2017-06-08 09:11:43信息:Thu Jun 08 09:11:43 CST 2017 Client not available anymore. Cannot send command: 5
+
+时间:2017-06-08 09:12:24信息:Thu Jun 08 09:12:24 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 result=3
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 result=3
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:12:25信息:Thu Jun 08 09:12:25 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:14:27信息:Thu Jun 08 09:14:27 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 result=3
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 result=3
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:15:28信息:Thu Jun 08 09:15:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:17:30信息:Thu Jun 08 09:17:30 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 result=3
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 result=3
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:17:31信息:Thu Jun 08 09:17:31 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:18:31信息:Thu Jun 08 09:18:31 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:18:31信息:Thu Jun 08 09:18:31 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:19:05信息:Thu Jun 08 09:19:05 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:19:05信息:Thu Jun 08 09:19:05 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:19:05信息:Thu Jun 08 09:19:05 CST 2017 result=3
+
+时间:2017-06-08 09:19:05信息:Thu Jun 08 09:19:05 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:19:05信息:Thu Jun 08 09:19:05 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:19:08信息:Thu Jun 08 09:19:08 CST 2017 channel=6
+
+时间:2017-06-08 09:19:08信息:Thu Jun 08 09:19:08 CST 2017 command:121;channel=6;imei = 864294038496919
+
+时间:2017-06-08 09:19:08信息:Thu Jun 08 09:19:08 CST 2017 channel=486
+
+时间:2017-06-08 09:19:08信息:Thu Jun 08 09:19:08 CST 2017 command:21;channel=486;imei = 864294038496919
+
+时间:2017-06-08 09:19:09信息:Thu Jun 08 09:19:09 CST 2017 result=3
+
+时间:2017-06-08 09:19:09信息:Thu Jun 08 09:19:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:19:09信息:Thu Jun 08 09:19:09 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:19:09信息:Thu Jun 08 09:19:09 CST 2017 result=3
+
+时间:2017-06-08 09:19:09信息:Thu Jun 08 09:19:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:19:09信息:Thu Jun 08 09:19:09 CST 2017 Information data has been received
+
+时间:2017-06-08 09:19:13信息:Thu Jun 08 09:19:13 CST 2017 channel=359
+
+时间:2017-06-08 09:19:14信息:Thu Jun 08 09:19:14 CST 2017 channel=942
+
+时间:2017-06-08 09:19:14信息:Thu Jun 08 09:19:14 CST 2017 command:121;channel=942;imei = 864294038496919
+
+时间:2017-06-08 09:19:14信息:Thu Jun 08 09:19:14 CST 2017 channel=759
+
+时间:2017-06-08 09:19:14信息:Thu Jun 08 09:19:14 CST 2017 command:21;channel=759;imei = 864294038496919
+
+时间:2017-06-08 09:19:15信息:Thu Jun 08 09:19:15 CST 2017 result=3
+
+时间:2017-06-08 09:19:15信息:Thu Jun 08 09:19:15 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:19:15信息:Thu Jun 08 09:19:15 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:19:15信息:Thu Jun 08 09:19:15 CST 2017 result=3
+
+时间:2017-06-08 09:19:15信息:Thu Jun 08 09:19:15 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:19:15信息:Thu Jun 08 09:19:15 CST 2017 Information data has been received
+
+时间:2017-06-08 09:21:10信息:Thu Jun 08 09:21:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:21:37信息:Thu Jun 08 09:21:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:21:37信息:Thu Jun 08 09:21:37 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:21:37信息:Thu Jun 08 09:21:37 CST 2017 result=3
+
+时间:2017-06-08 09:21:37信息:Thu Jun 08 09:21:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:21:37信息:Thu Jun 08 09:21:37 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 channel=278
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 command:121;channel=278;imei = 864294038496919
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 channel=929
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 command:21;channel=929;imei = 864294038496919
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 result=3
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 result=3
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:22:02信息:Thu Jun 08 09:22:02 CST 2017 Information data has been received
+
+时间:2017-06-08 09:24:27信息:Thu Jun 08 09:24:27 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:24:37信息:Thu Jun 08 09:24:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:24:37信息:Thu Jun 08 09:24:37 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:24:37信息:Thu Jun 08 09:24:37 CST 2017 result=3
+
+时间:2017-06-08 09:24:37信息:Thu Jun 08 09:24:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:24:37信息:Thu Jun 08 09:24:37 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 channel=408
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 command:121;channel=408;imei = 864294038496919
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 channel=412
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 command:21;channel=412;imei = 864294038496919
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 result=3
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 result=3
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:26:20信息:Thu Jun 08 09:26:20 CST 2017 Information data has been received
+
+时间:2017-06-08 09:27:26信息:Thu Jun 08 09:27:26 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:27:37信息:Thu Jun 08 09:27:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:27:37信息:Thu Jun 08 09:27:37 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:27:37信息:Thu Jun 08 09:27:37 CST 2017 result=3
+
+时间:2017-06-08 09:27:37信息:Thu Jun 08 09:27:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:27:37信息:Thu Jun 08 09:27:37 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 channel=534
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 command:121;channel=534;imei = 864294038496919
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 channel=341
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 command:21;channel=341;imei = 864294038496919
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 result=3
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:27:50信息:Thu Jun 08 09:27:50 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:27:51信息:Thu Jun 08 09:27:51 CST 2017 result=3
+
+时间:2017-06-08 09:27:51信息:Thu Jun 08 09:27:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:27:51信息:Thu Jun 08 09:27:51 CST 2017 Information data has been received
+
+时间:2017-06-08 09:28:35信息:Thu Jun 08 09:28:35 CST 2017 Client ended gently !
+
+时间:2017-06-08 09:28:35信息:Thu Jun 08 09:28:35 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:28:35信息:Thu Jun 08 09:28:35 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:28:35信息:Thu Jun 08 09:28:35 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:28:36信息:Thu Jun 08 09:28:36 CST 2017 result=3
+
+时间:2017-06-08 09:28:36信息:Thu Jun 08 09:28:36 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:28:36信息:Thu Jun 08 09:28:36 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 channel=875
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 command:121;channel=875;imei = 864294038496919
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 channel=499
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 command:21;channel=499;imei = 864294038496919
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 result=3
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 result=3
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:29:27信息:Thu Jun 08 09:29:27 CST 2017 Information data has been received
+
+时间:2017-06-08 09:29:45信息:Thu Jun 08 09:29:45 CST 2017 channel=865
+
+时间:2017-06-08 09:29:45信息:Thu Jun 08 09:29:45 CST 2017 command:114;channel=865;imei = 864294038496919
+
+时间:2017-06-08 09:29:45信息:Thu Jun 08 09:29:45 CST 2017 result=3
+
+时间:2017-06-08 09:29:45信息:Thu Jun 08 09:29:45 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=4
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 result=3
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:29:47信息:Thu Jun 08 09:29:47 CST 2017 File tree data has been received
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=3
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=4
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=4
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=3
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=4
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=4
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=3
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 result=3
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:30:17信息:Thu Jun 08 09:30:17 CST 2017 File transfert complete !
+
+时间:2017-06-08 09:30:50信息:Thu Jun 08 09:30:50 CST 2017 channel=696
+
+时间:2017-06-08 09:30:50信息:Thu Jun 08 09:30:50 CST 2017 command:110;channel=696;imei = 864294038496919
+
+时间:2017-06-08 09:30:50信息:Thu Jun 08 09:30:50 CST 2017 result=3
+
+时间:2017-06-08 09:30:50信息:Thu Jun 08 09:30:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:31:35信息:Thu Jun 08 09:31:35 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:31:35信息:Thu Jun 08 09:31:35 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:31:36信息:Thu Jun 08 09:31:36 CST 2017 result=3
+
+时间:2017-06-08 09:31:36信息:Thu Jun 08 09:31:36 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:31:36信息:Thu Jun 08 09:31:36 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:31:38信息:Thu Jun 08 09:31:38 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:34:06信息:Thu Jun 08 09:34:06 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 09:34:36信息:Thu Jun 08 09:34:36 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:34:36信息:Thu Jun 08 09:34:36 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:34:36信息:Thu Jun 08 09:34:36 CST 2017 result=3
+
+时间:2017-06-08 09:34:36信息:Thu Jun 08 09:34:36 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:34:36信息:Thu Jun 08 09:34:36 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:37:06信息:Thu Jun 08 09:37:06 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:37:37信息:Thu Jun 08 09:37:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:37:37信息:Thu Jun 08 09:37:37 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:37:37信息:Thu Jun 08 09:37:37 CST 2017 result=3
+
+时间:2017-06-08 09:37:37信息:Thu Jun 08 09:37:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:37:37信息:Thu Jun 08 09:37:37 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:40:06信息:Thu Jun 08 09:40:06 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:40:37信息:Thu Jun 08 09:40:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:40:37信息:Thu Jun 08 09:40:37 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:40:37信息:Thu Jun 08 09:40:37 CST 2017 result=3
+
+时间:2017-06-08 09:40:37信息:Thu Jun 08 09:40:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:40:37信息:Thu Jun 08 09:40:37 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 channel=417
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 command:121;channel=417;imei = 864294038496919
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 channel=837
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 command:21;channel=837;imei = 864294038496919
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 result=3
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 result=3
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:40:57信息:Thu Jun 08 09:40:57 CST 2017 Information data has been received
+
+时间:2017-06-08 09:43:10信息:Thu Jun 08 09:43:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:43:38信息:Thu Jun 08 09:43:38 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:43:38信息:Thu Jun 08 09:43:38 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:43:38信息:Thu Jun 08 09:43:38 CST 2017 result=3
+
+时间:2017-06-08 09:43:38信息:Thu Jun 08 09:43:38 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:43:38信息:Thu Jun 08 09:43:38 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 channel=804
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 command:121;channel=804;imei = 864294038496919
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 channel=70
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 command:21;channel=70;imei = 864294038496919
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 result=3
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:44:18信息:Thu Jun 08 09:44:18 CST 2017 Preference data has been received
+
+时间:2017-06-08 09:44:19信息:Thu Jun 08 09:44:19 CST 2017 result=3
+
+时间:2017-06-08 09:44:19信息:Thu Jun 08 09:44:19 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:44:19信息:Thu Jun 08 09:44:19 CST 2017 Information data has been received
+
+时间:2017-06-08 09:46:38信息:Thu Jun 08 09:46:38 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:46:38信息:Thu Jun 08 09:46:38 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:46:38信息:Thu Jun 08 09:46:38 CST 2017 result=3
+
+时间:2017-06-08 09:46:38信息:Thu Jun 08 09:46:38 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:46:38信息:Thu Jun 08 09:46:38 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:46:39信息:Thu Jun 08 09:46:39 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:49:07信息:Thu Jun 08 09:49:07 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 09:49:39信息:Thu Jun 08 09:49:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:49:39信息:Thu Jun 08 09:49:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:49:39信息:Thu Jun 08 09:49:39 CST 2017 result=3
+
+时间:2017-06-08 09:49:39信息:Thu Jun 08 09:49:39 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:49:39信息:Thu Jun 08 09:49:39 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:52:07信息:Thu Jun 08 09:52:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:52:39信息:Thu Jun 08 09:52:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:52:39信息:Thu Jun 08 09:52:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:52:39信息:Thu Jun 08 09:52:39 CST 2017 result=3
+
+时间:2017-06-08 09:52:39信息:Thu Jun 08 09:52:39 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:52:39信息:Thu Jun 08 09:52:39 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:55:07信息:Thu Jun 08 09:55:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:55:39信息:Thu Jun 08 09:55:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:55:39信息:Thu Jun 08 09:55:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:55:39信息:Thu Jun 08 09:55:39 CST 2017 result=3
+
+时间:2017-06-08 09:55:39信息:Thu Jun 08 09:55:39 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:55:39信息:Thu Jun 08 09:55:39 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 09:58:08信息:Thu Jun 08 09:58:08 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 09:58:39信息:Thu Jun 08 09:58:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 09:58:39信息:Thu Jun 08 09:58:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 09:58:40信息:Thu Jun 08 09:58:40 CST 2017 result=3
+
+时间:2017-06-08 09:58:40信息:Thu Jun 08 09:58:40 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 09:58:40信息:Thu Jun 08 09:58:40 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:01:08信息:Thu Jun 08 10:01:08 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:01:40信息:Thu Jun 08 10:01:40 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:01:40信息:Thu Jun 08 10:01:40 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:01:40信息:Thu Jun 08 10:01:40 CST 2017 result=3
+
+时间:2017-06-08 10:01:40信息:Thu Jun 08 10:01:40 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:01:40信息:Thu Jun 08 10:01:40 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:04:08信息:Thu Jun 08 10:04:08 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:04:40信息:Thu Jun 08 10:04:40 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:04:40信息:Thu Jun 08 10:04:40 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:04:40信息:Thu Jun 08 10:04:40 CST 2017 result=3
+
+时间:2017-06-08 10:04:40信息:Thu Jun 08 10:04:40 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:04:40信息:Thu Jun 08 10:04:40 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:07:09信息:Thu Jun 08 10:07:09 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:07:42信息:Thu Jun 08 10:07:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:07:42信息:Thu Jun 08 10:07:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:07:42信息:Thu Jun 08 10:07:42 CST 2017 result=3
+
+时间:2017-06-08 10:07:42信息:Thu Jun 08 10:07:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:07:42信息:Thu Jun 08 10:07:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:10:10信息:Thu Jun 08 10:10:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:10:42信息:Thu Jun 08 10:10:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:10:42信息:Thu Jun 08 10:10:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:10:42信息:Thu Jun 08 10:10:42 CST 2017 result=3
+
+时间:2017-06-08 10:10:42信息:Thu Jun 08 10:10:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:10:42信息:Thu Jun 08 10:10:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:13:10信息:Thu Jun 08 10:13:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:13:42信息:Thu Jun 08 10:13:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:13:42信息:Thu Jun 08 10:13:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:13:42信息:Thu Jun 08 10:13:42 CST 2017 result=3
+
+时间:2017-06-08 10:13:42信息:Thu Jun 08 10:13:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:13:42信息:Thu Jun 08 10:13:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:16:10信息:Thu Jun 08 10:16:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:16:42信息:Thu Jun 08 10:16:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:16:42信息:Thu Jun 08 10:16:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:16:42信息:Thu Jun 08 10:16:42 CST 2017 result=3
+
+时间:2017-06-08 10:16:42信息:Thu Jun 08 10:16:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:16:42信息:Thu Jun 08 10:16:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:19:10信息:Thu Jun 08 10:19:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:19:42信息:Thu Jun 08 10:19:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:19:42信息:Thu Jun 08 10:19:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:19:43信息:Thu Jun 08 10:19:43 CST 2017 result=3
+
+时间:2017-06-08 10:19:43信息:Thu Jun 08 10:19:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:19:43信息:Thu Jun 08 10:19:43 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:22:11信息:Thu Jun 08 10:22:11 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:22:45信息:Thu Jun 08 10:22:45 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:22:45信息:Thu Jun 08 10:22:45 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:22:45信息:Thu Jun 08 10:22:45 CST 2017 result=3
+
+时间:2017-06-08 10:22:45信息:Thu Jun 08 10:22:45 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:22:45信息:Thu Jun 08 10:22:45 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:22:47信息:Thu Jun 08 10:22:47 CST 2017 Client ended gently !
+
+时间:2017-06-08 10:22:47信息:Thu Jun 08 10:22:47 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 10:22:52信息:Thu Jun 08 10:22:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:22:52信息:Thu Jun 08 10:22:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:22:52信息:Thu Jun 08 10:22:52 CST 2017 result=3
+
+时间:2017-06-08 10:22:52信息:Thu Jun 08 10:22:52 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:22:52信息:Thu Jun 08 10:22:52 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:23:51信息:Thu Jun 08 10:23:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:23:51信息:Thu Jun 08 10:23:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:23:51信息:Thu Jun 08 10:23:51 CST 2017 result=3
+
+时间:2017-06-08 10:23:51信息:Thu Jun 08 10:23:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:23:51信息:Thu Jun 08 10:23:51 CST 2017 CONNECT command received from null
+
+时间:2017-06-08 10:26:48信息:Thu Jun 08 10:26:48 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:26:48信息:Thu Jun 08 10:26:48 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:26:48信息:Thu Jun 08 10:26:48 CST 2017 result=3
+
+时间:2017-06-08 10:26:48信息:Thu Jun 08 10:26:48 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:26:48信息:Thu Jun 08 10:26:48 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:28:20信息:Thu Jun 08 10:28:19 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:28:20信息:Thu Jun 08 10:28:20 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:28:20信息:Thu Jun 08 10:28:20 CST 2017 result=3
+
+时间:2017-06-08 10:28:20信息:Thu Jun 08 10:28:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:28:20信息:Thu Jun 08 10:28:20 CST 2017 CONNECT command received from 99000846001231
+
+时间:2017-06-08 10:29:50信息:Thu Jun 08 10:29:50 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:29:50信息:Thu Jun 08 10:29:50 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:29:50信息:Thu Jun 08 10:29:50 CST 2017 result=3
+
+时间:2017-06-08 10:29:50信息:Thu Jun 08 10:29:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:29:50信息:Thu Jun 08 10:29:50 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:31:52信息:Thu Jun 08 10:31:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:31:52信息:Thu Jun 08 10:31:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:31:53信息:Thu Jun 08 10:31:53 CST 2017 result=3
+
+时间:2017-06-08 10:31:53信息:Thu Jun 08 10:31:53 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:31:53信息:Thu Jun 08 10:31:53 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:33:37信息:Thu Jun 08 10:33:37 CST 2017 channel=497
+
+时间:2017-06-08 10:33:37信息:Thu Jun 08 10:33:37 CST 2017 command:121;channel=497;imei = 864294038496919
+
+时间:2017-06-08 10:33:37信息:Thu Jun 08 10:33:37 CST 2017 channel=706
+
+时间:2017-06-08 10:33:37信息:Thu Jun 08 10:33:37 CST 2017 command:21;channel=706;imei = 864294038496919
+
+时间:2017-06-08 10:33:41信息:Thu Jun 08 10:33:41 CST 2017 channel=883
+
+时间:2017-06-08 10:33:45信息:Thu Jun 08 10:33:45 CST 2017 channel=124
+
+时间:2017-06-08 10:33:49信息:Thu Jun 08 10:33:49 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 10:33:54信息:Thu Jun 08 10:33:54 CST 2017 channel=777
+
+时间:2017-06-08 10:33:54信息:Thu Jun 08 10:33:54 CST 2017 command:121;channel=777;imei = 864294038496919
+
+时间:2017-06-08 10:33:54信息:Thu Jun 08 10:33:54 CST 2017 channel=852
+
+时间:2017-06-08 10:33:54信息:Thu Jun 08 10:33:54 CST 2017 command:21;channel=852;imei = 864294038496919
+
+时间:2017-06-08 10:33:57信息:Thu Jun 08 10:33:57 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 10:34:05信息:Thu Jun 08 10:34:05 CST 2017 channel=174
+
+时间:2017-06-08 10:34:05信息:Thu Jun 08 10:34:05 CST 2017 command:121;channel=174;imei = 864294038496919
+
+时间:2017-06-08 10:34:05信息:Thu Jun 08 10:34:05 CST 2017 channel=495
+
+时间:2017-06-08 10:34:05信息:Thu Jun 08 10:34:05 CST 2017 command:21;channel=495;imei = 864294038496919
+
+时间:2017-06-08 10:34:11信息:Thu Jun 08 10:34:11 CST 2017 channel=666
+
+时间:2017-06-08 10:34:26信息:Thu Jun 08 10:34:26 CST 2017 channel=677
+
+时间:2017-06-08 10:34:26信息:Thu Jun 08 10:34:26 CST 2017 command:121;channel=677;imei = 99000846001231
+
+时间:2017-06-08 10:34:26信息:Thu Jun 08 10:34:26 CST 2017 channel=922
+
+时间:2017-06-08 10:34:26信息:Thu Jun 08 10:34:26 CST 2017 command:21;channel=922;imei = 99000846001231
+
+时间:2017-06-08 10:34:30信息:Thu Jun 08 10:34:30 CST 2017 channel=89
+
+时间:2017-06-08 10:34:52信息:Thu Jun 08 10:34:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:34:52信息:Thu Jun 08 10:34:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:34:52信息:Thu Jun 08 10:34:52 CST 2017 result=3
+
+时间:2017-06-08 10:34:52信息:Thu Jun 08 10:34:52 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:34:52信息:Thu Jun 08 10:34:52 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 10:58:25信息:Thu Jun 08 10:58:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:58:44信息:Thu Jun 08 10:58:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 10:58:44信息:Thu Jun 08 10:58:44 CST 2017 result=3
+
+时间:2017-06-08 10:58:44信息:Thu Jun 08 10:58:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 10:58:44信息:Thu Jun 08 10:58:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 10:58:44信息:Thu Jun 08 10:58:44 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:00:42信息:Thu Jun 08 11:00:42 CST 2017 channel=206
+
+时间:2017-06-08 11:00:42信息:Thu Jun 08 11:00:42 CST 2017 command:121;channel=206;imei = 864294038496919
+
+时间:2017-06-08 11:00:42信息:Thu Jun 08 11:00:42 CST 2017 channel=394
+
+时间:2017-06-08 11:00:42信息:Thu Jun 08 11:00:42 CST 2017 command:21;channel=394;imei = 864294038496919
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 result=3
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 result=3
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 Information data has been received
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 result=3
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:00:43信息:Thu Jun 08 11:00:43 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:00:45信息:Thu Jun 08 11:00:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:03:44信息:Thu Jun 08 11:03:44 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 11:03:44信息:Thu Jun 08 11:03:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:03:44信息:Thu Jun 08 11:03:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:03:44信息:Thu Jun 08 11:03:44 CST 2017 result=3
+
+时间:2017-06-08 11:03:44信息:Thu Jun 08 11:03:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:03:44信息:Thu Jun 08 11:03:44 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:06:44信息:Thu Jun 08 11:06:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:06:44信息:Thu Jun 08 11:06:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:06:44信息:Thu Jun 08 11:06:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:06:44信息:Thu Jun 08 11:06:44 CST 2017 result=3
+
+时间:2017-06-08 11:06:44信息:Thu Jun 08 11:06:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:06:44信息:Thu Jun 08 11:06:44 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 channel=382
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 command:121;channel=382;imei = 864294038496919
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 channel=960
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 command:21;channel=960;imei = 864294038496919
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 result=3
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:07:25信息:Thu Jun 08 11:07:25 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:07:26信息:Thu Jun 08 11:07:26 CST 2017 result=3
+
+时间:2017-06-08 11:07:26信息:Thu Jun 08 11:07:26 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:07:26信息:Thu Jun 08 11:07:26 CST 2017 Information data has been received
+
+时间:2017-06-08 11:09:44信息:Thu Jun 08 11:09:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:09:44信息:Thu Jun 08 11:09:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:09:44信息:Thu Jun 08 11:09:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:09:44信息:Thu Jun 08 11:09:44 CST 2017 result=3
+
+时间:2017-06-08 11:09:44信息:Thu Jun 08 11:09:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:09:44信息:Thu Jun 08 11:09:44 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 channel=996
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 command:121;channel=996;imei = 864294038496919
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 channel=473
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 command:21;channel=473;imei = 864294038496919
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 result=3
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 result=3
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:10:04信息:Thu Jun 08 11:10:04 CST 2017 Information data has been received
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 channel=938
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 command:121;channel=938;imei = 864294038496919
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 channel=410
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 command:21;channel=410;imei = 864294038496919
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 result=3
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 Information data has been received
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 result=3
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:10:25信息:Thu Jun 08 11:10:25 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:12:44信息:Thu Jun 08 11:12:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:12:50信息:Thu Jun 08 11:12:50 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:12:50信息:Thu Jun 08 11:12:50 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:12:50信息:Thu Jun 08 11:12:50 CST 2017 result=3
+
+时间:2017-06-08 11:12:50信息:Thu Jun 08 11:12:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:12:50信息:Thu Jun 08 11:12:50 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:15:45信息:Thu Jun 08 11:15:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:15:51信息:Thu Jun 08 11:15:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:15:51信息:Thu Jun 08 11:15:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:15:51信息:Thu Jun 08 11:15:51 CST 2017 result=3
+
+时间:2017-06-08 11:15:51信息:Thu Jun 08 11:15:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:15:51信息:Thu Jun 08 11:15:51 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:18:45信息:Thu Jun 08 11:18:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:18:51信息:Thu Jun 08 11:18:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:18:51信息:Thu Jun 08 11:18:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:18:51信息:Thu Jun 08 11:18:51 CST 2017 result=3
+
+时间:2017-06-08 11:18:51信息:Thu Jun 08 11:18:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:18:51信息:Thu Jun 08 11:18:51 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:21:45信息:Thu Jun 08 11:21:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:21:51信息:Thu Jun 08 11:21:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:21:51信息:Thu Jun 08 11:21:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:21:51信息:Thu Jun 08 11:21:51 CST 2017 result=3
+
+时间:2017-06-08 11:21:51信息:Thu Jun 08 11:21:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:21:51信息:Thu Jun 08 11:21:51 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:24:45信息:Thu Jun 08 11:24:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:24:51信息:Thu Jun 08 11:24:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:24:51信息:Thu Jun 08 11:24:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:24:51信息:Thu Jun 08 11:24:51 CST 2017 result=3
+
+时间:2017-06-08 11:24:51信息:Thu Jun 08 11:24:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:24:51信息:Thu Jun 08 11:24:51 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:27:46信息:Thu Jun 08 11:27:46 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:27:52信息:Thu Jun 08 11:27:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:27:52信息:Thu Jun 08 11:27:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:27:52信息:Thu Jun 08 11:27:52 CST 2017 result=3
+
+时间:2017-06-08 11:27:52信息:Thu Jun 08 11:27:52 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:27:52信息:Thu Jun 08 11:27:52 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:30:46信息:Thu Jun 08 11:30:46 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:30:52信息:Thu Jun 08 11:30:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:30:52信息:Thu Jun 08 11:30:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:30:52信息:Thu Jun 08 11:30:52 CST 2017 result=3
+
+时间:2017-06-08 11:30:52信息:Thu Jun 08 11:30:52 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:30:52信息:Thu Jun 08 11:30:52 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:33:46信息:Thu Jun 08 11:33:46 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:33:52信息:Thu Jun 08 11:33:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:33:52信息:Thu Jun 08 11:33:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:33:52信息:Thu Jun 08 11:33:52 CST 2017 result=3
+
+时间:2017-06-08 11:33:52信息:Thu Jun 08 11:33:52 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:33:52信息:Thu Jun 08 11:33:52 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:36:46信息:Thu Jun 08 11:36:46 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:36:53信息:Thu Jun 08 11:36:53 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:36:53信息:Thu Jun 08 11:36:53 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:36:53信息:Thu Jun 08 11:36:53 CST 2017 result=3
+
+时间:2017-06-08 11:36:53信息:Thu Jun 08 11:36:53 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:36:53信息:Thu Jun 08 11:36:53 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 channel=322
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 command:121;channel=322;imei = 864294038496919
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 channel=730
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 command:21;channel=730;imei = 864294038496919
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 result=3
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:39:43信息:Thu Jun 08 11:39:43 CST 2017 Information data has been received
+
+时间:2017-06-08 11:39:44信息:Thu Jun 08 11:39:44 CST 2017 result=3
+
+时间:2017-06-08 11:39:44信息:Thu Jun 08 11:39:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:39:44信息:Thu Jun 08 11:39:44 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:39:50信息:Thu Jun 08 11:39:50 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:39:54信息:Thu Jun 08 11:39:54 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:39:54信息:Thu Jun 08 11:39:54 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:39:54信息:Thu Jun 08 11:39:54 CST 2017 result=3
+
+时间:2017-06-08 11:39:54信息:Thu Jun 08 11:39:54 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:39:54信息:Thu Jun 08 11:39:54 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 channel=930
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 command:121;channel=930;imei = 864294038496919
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 channel=356
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 command:21;channel=356;imei = 864294038496919
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 result=3
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:39:55信息:Thu Jun 08 11:39:55 CST 2017 Information data has been received
+
+时间:2017-06-08 11:39:56信息:Thu Jun 08 11:39:56 CST 2017 result=3
+
+时间:2017-06-08 11:39:56信息:Thu Jun 08 11:39:56 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:39:56信息:Thu Jun 08 11:39:56 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:40:10信息:Thu Jun 08 11:40:10 CST 2017 channel=29
+
+时间:2017-06-08 11:40:10信息:Thu Jun 08 11:40:10 CST 2017 command:121;channel=29;imei = 864294038496919
+
+时间:2017-06-08 11:40:10信息:Thu Jun 08 11:40:10 CST 2017 channel=841
+
+时间:2017-06-08 11:40:10信息:Thu Jun 08 11:40:10 CST 2017 command:21;channel=841;imei = 864294038496919
+
+时间:2017-06-08 11:40:11信息:Thu Jun 08 11:40:11 CST 2017 result=3
+
+时间:2017-06-08 11:40:11信息:Thu Jun 08 11:40:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:40:11信息:Thu Jun 08 11:40:11 CST 2017 Information data has been received
+
+时间:2017-06-08 11:40:11信息:Thu Jun 08 11:40:11 CST 2017 result=3
+
+时间:2017-06-08 11:40:11信息:Thu Jun 08 11:40:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:40:11信息:Thu Jun 08 11:40:11 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 channel=220
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 command:121;channel=220;imei = 864294038496919
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 channel=828
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 command:21;channel=828;imei = 864294038496919
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 result=3
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:40:18信息:Thu Jun 08 11:40:18 CST 2017 Information data has been received
+
+时间:2017-06-08 11:40:19信息:Thu Jun 08 11:40:19 CST 2017 result=3
+
+时间:2017-06-08 11:40:19信息:Thu Jun 08 11:40:19 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:40:19信息:Thu Jun 08 11:40:19 CST 2017 Preference data has been received
+
+时间:2017-06-08 11:42:54信息:Thu Jun 08 11:42:54 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:42:54信息:Thu Jun 08 11:42:54 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:42:54信息:Thu Jun 08 11:42:54 CST 2017 result=3
+
+时间:2017-06-08 11:42:54信息:Thu Jun 08 11:42:54 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:42:54信息:Thu Jun 08 11:42:54 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:42:57信息:Thu Jun 08 11:42:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:45:48信息:Thu Jun 08 11:45:48 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 11:45:54信息:Thu Jun 08 11:45:54 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:45:54信息:Thu Jun 08 11:45:54 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:45:54信息:Thu Jun 08 11:45:54 CST 2017 result=3
+
+时间:2017-06-08 11:45:54信息:Thu Jun 08 11:45:54 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:45:54信息:Thu Jun 08 11:45:54 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:48:48信息:Thu Jun 08 11:48:48 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:48:48信息:Thu Jun 08 11:48:48 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:48:48信息:Thu Jun 08 11:48:48 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:48:48信息:Thu Jun 08 11:48:48 CST 2017 result=3
+
+时间:2017-06-08 11:48:48信息:Thu Jun 08 11:48:48 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:48:48信息:Thu Jun 08 11:48:48 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:51:49信息:Thu Jun 08 11:51:49 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:51:49信息:Thu Jun 08 11:51:49 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:51:49信息:Thu Jun 08 11:51:49 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:51:49信息:Thu Jun 08 11:51:49 CST 2017 result=3
+
+时间:2017-06-08 11:51:49信息:Thu Jun 08 11:51:49 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:51:49信息:Thu Jun 08 11:51:49 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:54:49信息:Thu Jun 08 11:54:49 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:54:49信息:Thu Jun 08 11:54:49 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:54:49信息:Thu Jun 08 11:54:49 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:54:49信息:Thu Jun 08 11:54:49 CST 2017 result=3
+
+时间:2017-06-08 11:54:49信息:Thu Jun 08 11:54:49 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:54:49信息:Thu Jun 08 11:54:49 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 11:57:49信息:Thu Jun 08 11:57:49 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 11:57:49信息:Thu Jun 08 11:57:49 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 11:57:49信息:Thu Jun 08 11:57:49 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 11:57:49信息:Thu Jun 08 11:57:49 CST 2017 result=3
+
+时间:2017-06-08 11:57:49信息:Thu Jun 08 11:57:49 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 11:57:49信息:Thu Jun 08 11:57:49 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:00:50信息:Thu Jun 08 12:00:50 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:00:50信息:Thu Jun 08 12:00:50 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:00:50信息:Thu Jun 08 12:00:50 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:00:50信息:Thu Jun 08 12:00:50 CST 2017 result=3
+
+时间:2017-06-08 12:00:50信息:Thu Jun 08 12:00:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:00:50信息:Thu Jun 08 12:00:50 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:03:50信息:Thu Jun 08 12:03:50 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:03:50信息:Thu Jun 08 12:03:50 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:03:50信息:Thu Jun 08 12:03:50 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:03:50信息:Thu Jun 08 12:03:50 CST 2017 result=3
+
+时间:2017-06-08 12:03:50信息:Thu Jun 08 12:03:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:03:50信息:Thu Jun 08 12:03:50 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:05:56信息:Thu Jun 08 12:05:56 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:06:52信息:Thu Jun 08 12:06:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:06:52信息:Thu Jun 08 12:06:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:06:52信息:Thu Jun 08 12:06:52 CST 2017 result=3
+
+时间:2017-06-08 12:06:52信息:Thu Jun 08 12:06:52 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:06:52信息:Thu Jun 08 12:06:52 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:08:57信息:Thu Jun 08 12:08:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:09:51信息:Thu Jun 08 12:09:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:09:51信息:Thu Jun 08 12:09:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:09:51信息:Thu Jun 08 12:09:51 CST 2017 result=3
+
+时间:2017-06-08 12:09:51信息:Thu Jun 08 12:09:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:09:51信息:Thu Jun 08 12:09:51 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:11:57信息:Thu Jun 08 12:11:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:12:53信息:Thu Jun 08 12:12:53 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:12:53信息:Thu Jun 08 12:12:53 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:12:53信息:Thu Jun 08 12:12:53 CST 2017 result=3
+
+时间:2017-06-08 12:12:53信息:Thu Jun 08 12:12:53 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:12:53信息:Thu Jun 08 12:12:53 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:14:57信息:Thu Jun 08 12:14:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:14:57信息:Thu Jun 08 12:14:57 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:14:57信息:Thu Jun 08 12:14:57 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:14:57信息:Thu Jun 08 12:14:57 CST 2017 result=3
+
+时间:2017-06-08 12:14:57信息:Thu Jun 08 12:14:57 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:14:57信息:Thu Jun 08 12:14:57 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:17:52信息:Thu Jun 08 12:17:52 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:17:59信息:Thu Jun 08 12:17:59 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:17:59信息:Thu Jun 08 12:17:59 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:17:59信息:Thu Jun 08 12:17:59 CST 2017 result=3
+
+时间:2017-06-08 12:17:59信息:Thu Jun 08 12:17:59 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:17:59信息:Thu Jun 08 12:17:59 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:20:53信息:Thu Jun 08 12:20:53 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:20:53信息:Thu Jun 08 12:20:53 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:20:53信息:Thu Jun 08 12:20:53 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:20:53信息:Thu Jun 08 12:20:53 CST 2017 result=3
+
+时间:2017-06-08 12:20:53信息:Thu Jun 08 12:20:53 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:20:53信息:Thu Jun 08 12:20:53 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:23:54信息:Thu Jun 08 12:23:54 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:24:00信息:Thu Jun 08 12:24:00 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:24:00信息:Thu Jun 08 12:24:00 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:24:00信息:Thu Jun 08 12:24:00 CST 2017 result=3
+
+时间:2017-06-08 12:24:00信息:Thu Jun 08 12:24:00 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:24:00信息:Thu Jun 08 12:24:00 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:26:54信息:Thu Jun 08 12:26:54 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:26:59信息:Thu Jun 08 12:26:59 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:26:59信息:Thu Jun 08 12:26:59 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:26:59信息:Thu Jun 08 12:26:59 CST 2017 result=3
+
+时间:2017-06-08 12:26:59信息:Thu Jun 08 12:26:59 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:26:59信息:Thu Jun 08 12:26:59 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:29:55信息:Thu Jun 08 12:29:55 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:29:55信息:Thu Jun 08 12:29:55 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:29:55信息:Thu Jun 08 12:29:55 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:29:55信息:Thu Jun 08 12:29:55 CST 2017 result=3
+
+时间:2017-06-08 12:29:55信息:Thu Jun 08 12:29:55 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:29:55信息:Thu Jun 08 12:29:55 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:32:55信息:Thu Jun 08 12:32:55 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:32:55信息:Thu Jun 08 12:32:55 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:32:55信息:Thu Jun 08 12:32:55 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:32:55信息:Thu Jun 08 12:32:55 CST 2017 result=3
+
+时间:2017-06-08 12:32:55信息:Thu Jun 08 12:32:55 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:32:55信息:Thu Jun 08 12:32:55 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:35:56信息:Thu Jun 08 12:35:56 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:36:00信息:Thu Jun 08 12:36:00 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:36:00信息:Thu Jun 08 12:36:00 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:36:00信息:Thu Jun 08 12:36:00 CST 2017 result=3
+
+时间:2017-06-08 12:36:00信息:Thu Jun 08 12:36:00 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:36:00信息:Thu Jun 08 12:36:00 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:38:56信息:Thu Jun 08 12:38:56 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:38:56信息:Thu Jun 08 12:38:56 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:38:56信息:Thu Jun 08 12:38:56 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:38:56信息:Thu Jun 08 12:38:56 CST 2017 result=3
+
+时间:2017-06-08 12:38:56信息:Thu Jun 08 12:38:56 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:38:56信息:Thu Jun 08 12:38:56 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:41:57信息:Thu Jun 08 12:41:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:41:58信息:Thu Jun 08 12:41:58 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:41:58信息:Thu Jun 08 12:41:58 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:41:58信息:Thu Jun 08 12:41:58 CST 2017 result=3
+
+时间:2017-06-08 12:41:58信息:Thu Jun 08 12:41:58 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:41:58信息:Thu Jun 08 12:41:58 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:44:57信息:Thu Jun 08 12:44:57 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:44:57信息:Thu Jun 08 12:44:57 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:44:57信息:Thu Jun 08 12:44:57 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:44:57信息:Thu Jun 08 12:44:57 CST 2017 result=3
+
+时间:2017-06-08 12:44:57信息:Thu Jun 08 12:44:57 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:44:57信息:Thu Jun 08 12:44:57 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:47:58信息:Thu Jun 08 12:47:58 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:48:28信息:Thu Jun 08 12:48:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:48:28信息:Thu Jun 08 12:48:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:48:28信息:Thu Jun 08 12:48:28 CST 2017 result=3
+
+时间:2017-06-08 12:48:28信息:Thu Jun 08 12:48:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:48:28信息:Thu Jun 08 12:48:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:50:58信息:Thu Jun 08 12:50:58 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:51:28信息:Thu Jun 08 12:51:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:51:28信息:Thu Jun 08 12:51:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:51:28信息:Thu Jun 08 12:51:28 CST 2017 result=3
+
+时间:2017-06-08 12:51:28信息:Thu Jun 08 12:51:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:51:28信息:Thu Jun 08 12:51:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:53:59信息:Thu Jun 08 12:53:59 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:54:28信息:Thu Jun 08 12:54:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:54:28信息:Thu Jun 08 12:54:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:54:28信息:Thu Jun 08 12:54:28 CST 2017 result=3
+
+时间:2017-06-08 12:54:28信息:Thu Jun 08 12:54:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:54:28信息:Thu Jun 08 12:54:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 12:56:59信息:Thu Jun 08 12:56:59 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 12:56:59信息:Thu Jun 08 12:56:59 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 12:56:59信息:Thu Jun 08 12:56:59 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 12:56:59信息:Thu Jun 08 12:56:59 CST 2017 result=3
+
+时间:2017-06-08 12:56:59信息:Thu Jun 08 12:56:59 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 12:56:59信息:Thu Jun 08 12:56:59 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:00:00信息:Thu Jun 08 13:00:00 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:00:29信息:Thu Jun 08 13:00:29 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:00:29信息:Thu Jun 08 13:00:29 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:00:29信息:Thu Jun 08 13:00:29 CST 2017 result=3
+
+时间:2017-06-08 13:00:29信息:Thu Jun 08 13:00:29 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:00:29信息:Thu Jun 08 13:00:29 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:03:00信息:Thu Jun 08 13:03:00 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:03:29信息:Thu Jun 08 13:03:29 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:03:29信息:Thu Jun 08 13:03:29 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:03:29信息:Thu Jun 08 13:03:29 CST 2017 result=3
+
+时间:2017-06-08 13:03:29信息:Thu Jun 08 13:03:29 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:03:29信息:Thu Jun 08 13:03:29 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:06:01信息:Thu Jun 08 13:06:01 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:06:31信息:Thu Jun 08 13:06:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:06:31信息:Thu Jun 08 13:06:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:06:31信息:Thu Jun 08 13:06:31 CST 2017 result=3
+
+时间:2017-06-08 13:06:31信息:Thu Jun 08 13:06:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:06:31信息:Thu Jun 08 13:06:31 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:09:01信息:Thu Jun 08 13:09:01 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:09:30信息:Thu Jun 08 13:09:30 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:09:30信息:Thu Jun 08 13:09:30 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:09:30信息:Thu Jun 08 13:09:30 CST 2017 result=3
+
+时间:2017-06-08 13:09:30信息:Thu Jun 08 13:09:30 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:09:30信息:Thu Jun 08 13:09:30 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:12:02信息:Thu Jun 08 13:12:02 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:12:31信息:Thu Jun 08 13:12:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:12:31信息:Thu Jun 08 13:12:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:12:31信息:Thu Jun 08 13:12:31 CST 2017 result=3
+
+时间:2017-06-08 13:12:31信息:Thu Jun 08 13:12:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:12:31信息:Thu Jun 08 13:12:31 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:15:02信息:Thu Jun 08 13:15:02 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:15:02信息:Thu Jun 08 13:15:02 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:15:02信息:Thu Jun 08 13:15:02 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:15:03信息:Thu Jun 08 13:15:03 CST 2017 result=3
+
+时间:2017-06-08 13:15:03信息:Thu Jun 08 13:15:03 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:15:03信息:Thu Jun 08 13:15:03 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:18:03信息:Thu Jun 08 13:18:03 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:18:03信息:Thu Jun 08 13:18:03 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:18:03信息:Thu Jun 08 13:18:03 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:18:03信息:Thu Jun 08 13:18:03 CST 2017 result=3
+
+时间:2017-06-08 13:18:03信息:Thu Jun 08 13:18:03 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:18:03信息:Thu Jun 08 13:18:03 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:20:32信息:Thu Jun 08 13:20:32 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:20:32信息:Thu Jun 08 13:20:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:20:32信息:Thu Jun 08 13:20:32 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:20:32信息:Thu Jun 08 13:20:32 CST 2017 result=3
+
+时间:2017-06-08 13:20:32信息:Thu Jun 08 13:20:32 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:20:32信息:Thu Jun 08 13:20:32 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:23:04信息:Thu Jun 08 13:23:04 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:23:32信息:Thu Jun 08 13:23:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:23:32信息:Thu Jun 08 13:23:32 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:23:32信息:Thu Jun 08 13:23:32 CST 2017 result=3
+
+时间:2017-06-08 13:23:32信息:Thu Jun 08 13:23:32 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:23:32信息:Thu Jun 08 13:23:32 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:26:04信息:Thu Jun 08 13:26:04 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:26:04信息:Thu Jun 08 13:26:04 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:26:04信息:Thu Jun 08 13:26:04 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:26:04信息:Thu Jun 08 13:26:04 CST 2017 result=3
+
+时间:2017-06-08 13:26:04信息:Thu Jun 08 13:26:04 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:26:04信息:Thu Jun 08 13:26:04 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:29:05信息:Thu Jun 08 13:29:05 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:29:33信息:Thu Jun 08 13:29:33 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:29:33信息:Thu Jun 08 13:29:33 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:29:33信息:Thu Jun 08 13:29:33 CST 2017 result=3
+
+时间:2017-06-08 13:29:33信息:Thu Jun 08 13:29:33 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:29:33信息:Thu Jun 08 13:29:33 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:32:05信息:Thu Jun 08 13:32:05 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:32:33信息:Thu Jun 08 13:32:33 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:32:33信息:Thu Jun 08 13:32:33 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:32:33信息:Thu Jun 08 13:32:33 CST 2017 result=3
+
+时间:2017-06-08 13:32:33信息:Thu Jun 08 13:32:33 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:32:33信息:Thu Jun 08 13:32:33 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:35:06信息:Thu Jun 08 13:35:06 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:35:06信息:Thu Jun 08 13:35:06 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:35:06信息:Thu Jun 08 13:35:06 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:35:06信息:Thu Jun 08 13:35:06 CST 2017 result=3
+
+时间:2017-06-08 13:35:06信息:Thu Jun 08 13:35:06 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:35:06信息:Thu Jun 08 13:35:06 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:38:07信息:Thu Jun 08 13:38:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:38:35信息:Thu Jun 08 13:38:35 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:38:35信息:Thu Jun 08 13:38:35 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:38:35信息:Thu Jun 08 13:38:35 CST 2017 result=3
+
+时间:2017-06-08 13:38:35信息:Thu Jun 08 13:38:35 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:38:35信息:Thu Jun 08 13:38:35 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:41:07信息:Thu Jun 08 13:41:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:41:34信息:Thu Jun 08 13:41:34 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:41:34信息:Thu Jun 08 13:41:34 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:41:34信息:Thu Jun 08 13:41:34 CST 2017 result=3
+
+时间:2017-06-08 13:41:34信息:Thu Jun 08 13:41:34 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:41:34信息:Thu Jun 08 13:41:34 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 channel=985
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 command:121;channel=985;imei = 864294038496919
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 channel=753
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 command:21;channel=753;imei = 864294038496919
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 result=3
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 Preference data has been received
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 result=3
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:42:43信息:Thu Jun 08 13:42:43 CST 2017 Information data has been received
+
+时间:2017-06-08 13:44:08信息:Thu Jun 08 13:44:08 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:44:08信息:Thu Jun 08 13:44:08 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:44:08信息:Thu Jun 08 13:44:08 CST 2017 result=3
+
+时间:2017-06-08 13:44:08信息:Thu Jun 08 13:44:08 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:44:08信息:Thu Jun 08 13:44:08 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:44:11信息:Thu Jun 08 13:44:11 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:47:08信息:Thu Jun 08 13:47:08 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 13:47:35信息:Thu Jun 08 13:47:35 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:47:35信息:Thu Jun 08 13:47:35 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:47:35信息:Thu Jun 08 13:47:35 CST 2017 result=3
+
+时间:2017-06-08 13:47:35信息:Thu Jun 08 13:47:35 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:47:35信息:Thu Jun 08 13:47:35 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:50:09信息:Thu Jun 08 13:50:09 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:50:36信息:Thu Jun 08 13:50:36 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:50:36信息:Thu Jun 08 13:50:36 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:50:36信息:Thu Jun 08 13:50:36 CST 2017 result=3
+
+时间:2017-06-08 13:50:36信息:Thu Jun 08 13:50:36 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:50:36信息:Thu Jun 08 13:50:36 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:51:39信息:Thu Jun 08 13:51:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:51:39信息:Thu Jun 08 13:51:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:51:40信息:Thu Jun 08 13:51:40 CST 2017 result=3
+
+时间:2017-06-08 13:51:40信息:Thu Jun 08 13:51:40 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:51:40信息:Thu Jun 08 13:51:40 CST 2017 CONNECT command received from 357657050258082
+
+时间:2017-06-08 13:51:58信息:Thu Jun 08 13:51:58 CST 2017 channel=286
+
+时间:2017-06-08 13:51:58信息:Thu Jun 08 13:51:58 CST 2017 command:121;channel=286;imei = 357657050258082
+
+时间:2017-06-08 13:51:58信息:Thu Jun 08 13:51:58 CST 2017 channel=294
+
+时间:2017-06-08 13:51:58信息:Thu Jun 08 13:51:58 CST 2017 command:21;channel=294;imei = 357657050258082
+
+时间:2017-06-08 13:52:02信息:Thu Jun 08 13:52:02 CST 2017 Client 357657050258082 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:52:04信息:Thu Jun 08 13:52:04 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:52:04信息:Thu Jun 08 13:52:04 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:52:04信息:Thu Jun 08 13:52:04 CST 2017 result=3
+
+时间:2017-06-08 13:52:04信息:Thu Jun 08 13:52:04 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:52:04信息:Thu Jun 08 13:52:04 CST 2017 CONNECT command received from 357657050258082
+
+时间:2017-06-08 13:52:47信息:Thu Jun 08 13:52:47 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:52:47信息:Thu Jun 08 13:52:47 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:52:47信息:Thu Jun 08 13:52:47 CST 2017 result=3
+
+时间:2017-06-08 13:52:47信息:Thu Jun 08 13:52:47 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:52:47信息:Thu Jun 08 13:52:47 CST 2017 CONNECT command received from 357657050258082
+
+时间:2017-06-08 13:53:09信息:Thu Jun 08 13:53:09 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:53:37信息:Thu Jun 08 13:53:37 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:53:37信息:Thu Jun 08 13:53:37 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:53:37信息:Thu Jun 08 13:53:37 CST 2017 result=3
+
+时间:2017-06-08 13:53:37信息:Thu Jun 08 13:53:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:53:37信息:Thu Jun 08 13:53:37 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:55:01信息:Thu Jun 08 13:55:01 CST 2017 channel=208
+
+时间:2017-06-08 13:55:01信息:Thu Jun 08 13:55:01 CST 2017 command:121;channel=208;imei = 357657050258082
+
+时间:2017-06-08 13:55:01信息:Thu Jun 08 13:55:01 CST 2017 channel=108
+
+时间:2017-06-08 13:55:01信息:Thu Jun 08 13:55:01 CST 2017 command:21;channel=108;imei = 357657050258082
+
+时间:2017-06-08 13:55:02信息:Thu Jun 08 13:55:02 CST 2017 channel=765
+
+时间:2017-06-08 13:55:02信息:Thu Jun 08 13:55:02 CST 2017 command:121;channel=765;imei = 357657050258082
+
+时间:2017-06-08 13:55:02信息:Thu Jun 08 13:55:02 CST 2017 channel=154
+
+时间:2017-06-08 13:55:02信息:Thu Jun 08 13:55:02 CST 2017 command:21;channel=154;imei = 357657050258082
+
+时间:2017-06-08 13:55:11信息:Thu Jun 08 13:55:11 CST 2017 channel=474
+
+时间:2017-06-08 13:55:11信息:Thu Jun 08 13:55:11 CST 2017 command:124;channel=474;imei = 357657050258082
+
+时间:2017-06-08 13:55:31信息:Thu Jun 08 13:55:31 CST 2017 channel=992
+
+时间:2017-06-08 13:55:31信息:Thu Jun 08 13:55:31 CST 2017 command:118;channel=992;imei = 357657050258082
+
+时间:2017-06-08 13:55:40信息:Thu Jun 08 13:55:40 CST 2017 channel=590
+
+时间:2017-06-08 13:55:42信息:Thu Jun 08 13:55:42 CST 2017 channel=787
+
+时间:2017-06-08 13:55:45信息:Thu Jun 08 13:55:45 CST 2017 channel=449
+
+时间:2017-06-08 13:55:45信息:Thu Jun 08 13:55:45 CST 2017 command:121;channel=449;imei = 864294038496919
+
+时间:2017-06-08 13:55:45信息:Thu Jun 08 13:55:45 CST 2017 channel=806
+
+时间:2017-06-08 13:55:45信息:Thu Jun 08 13:55:45 CST 2017 command:21;channel=806;imei = 864294038496919
+
+时间:2017-06-08 13:55:46信息:Thu Jun 08 13:55:46 CST 2017 result=3
+
+时间:2017-06-08 13:55:46信息:Thu Jun 08 13:55:46 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:55:46信息:Thu Jun 08 13:55:46 CST 2017 Information data has been received
+
+时间:2017-06-08 13:55:46信息:Thu Jun 08 13:55:46 CST 2017 result=3
+
+时间:2017-06-08 13:55:46信息:Thu Jun 08 13:55:46 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:55:46信息:Thu Jun 08 13:55:46 CST 2017 Preference data has been received
+
+时间:2017-06-08 13:55:53信息:Thu Jun 08 13:55:53 CST 2017 channel=746
+
+时间:2017-06-08 13:55:53信息:Thu Jun 08 13:55:53 CST 2017 command:112;channel=746;imei = 864294038496919
+
+时间:2017-06-08 13:55:55信息:Thu Jun 08 13:55:55 CST 2017 result=3
+
+时间:2017-06-08 13:55:55信息:Thu Jun 08 13:55:55 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:55:55信息:Thu Jun 08 13:55:55 CST 2017 result=3
+
+时间:2017-06-08 13:55:55信息:Thu Jun 08 13:55:55 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:56:04信息:Thu Jun 08 13:56:04 CST 2017 channel=149
+
+时间:2017-06-08 13:56:04信息:Thu Jun 08 13:56:04 CST 2017 command:118;channel=149;imei = 864294038496919
+
+时间:2017-06-08 13:56:04信息:Thu Jun 08 13:56:04 CST 2017 result=3
+
+时间:2017-06-08 13:56:04信息:Thu Jun 08 13:56:04 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:56:05信息:Thu Jun 08 13:56:05 CST 2017 result=3
+
+时间:2017-06-08 13:56:05信息:Thu Jun 08 13:56:05 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:56:16信息:Thu Jun 08 13:56:16 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 13:56:22信息:Thu Jun 08 13:56:22 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 13:56:23信息:Thu Jun 08 13:56:23 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 13:56:23信息:Thu Jun 08 13:56:23 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 13:56:30信息:Thu Jun 08 13:56:30 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:56:30信息:Thu Jun 08 13:56:30 CST 2017 result=3
+
+时间:2017-06-08 13:56:30信息:Thu Jun 08 13:56:30 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:56:30信息:Thu Jun 08 13:56:30 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:56:30信息:Thu Jun 08 13:56:30 CST 2017 CONNECT command received from 357657050258082
+
+时间:2017-06-08 13:56:40信息:Thu Jun 08 13:56:40 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 13:56:40信息:Thu Jun 08 13:56:40 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 13:56:40信息:Thu Jun 08 13:56:40 CST 2017 result=3
+
+时间:2017-06-08 13:56:40信息:Thu Jun 08 13:56:40 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 13:56:40信息:Thu Jun 08 13:56:40 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 13:58:07信息:Thu Jun 08 13:58:07 CST 2017 channel=574
+
+时间:2017-06-08 13:58:07信息:Thu Jun 08 13:58:07 CST 2017 command:121;channel=574;imei = 864294038496919
+
+时间:2017-06-08 13:58:07信息:Thu Jun 08 13:58:07 CST 2017 channel=535
+
+时间:2017-06-08 13:58:07信息:Thu Jun 08 13:58:07 CST 2017 command:21;channel=535;imei = 864294038496919
+
+时间:2017-06-08 13:58:14信息:Thu Jun 08 13:58:14 CST 2017 channel=455
+
+时间:2017-06-08 13:58:18信息:Thu Jun 08 13:58:18 CST 2017 channel=658
+
+时间:2017-06-08 13:58:21信息:Thu Jun 08 13:58:21 CST 2017 channel=646
+
+时间:2017-06-08 13:58:21信息:Thu Jun 08 13:58:21 CST 2017 command:121;channel=646;imei = 864294038496919
+
+时间:2017-06-08 13:58:21信息:Thu Jun 08 13:58:21 CST 2017 channel=930
+
+时间:2017-06-08 13:58:21信息:Thu Jun 08 13:58:21 CST 2017 command:21;channel=930;imei = 864294038496919
+
+时间:2017-06-08 13:58:31信息:Thu Jun 08 13:58:31 CST 2017 channel=479
+
+时间:2017-06-08 13:58:31信息:Thu Jun 08 13:58:31 CST 2017 command:121;channel=479;imei = 864294038496919
+
+时间:2017-06-08 13:58:31信息:Thu Jun 08 13:58:31 CST 2017 channel=109
+
+时间:2017-06-08 13:58:31信息:Thu Jun 08 13:58:31 CST 2017 command:21;channel=109;imei = 864294038496919
+
+时间:2017-06-08 13:58:39信息:Thu Jun 08 13:58:39 CST 2017 channel=268
+
+时间:2017-06-08 13:58:39信息:Thu Jun 08 13:58:39 CST 2017 command:121;channel=268;imei = 864294038496919
+
+时间:2017-06-08 13:58:39信息:Thu Jun 08 13:58:39 CST 2017 channel=150
+
+时间:2017-06-08 13:58:39信息:Thu Jun 08 13:58:39 CST 2017 command:21;channel=150;imei = 864294038496919
+
+时间:2017-06-08 13:59:39信息:Thu Jun 08 13:59:39 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:00:11信息:Thu Jun 08 14:00:11 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:00:11信息:Thu Jun 08 14:00:11 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:00:11信息:Thu Jun 08 14:00:11 CST 2017 result=3
+
+时间:2017-06-08 14:00:11信息:Thu Jun 08 14:00:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:00:11信息:Thu Jun 08 14:00:11 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 channel=103
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 command:121;channel=103;imei = 864294038496919
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 channel=670
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 command:21;channel=670;imei = 864294038496919
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 result=3
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:01:37信息:Thu Jun 08 14:01:37 CST 2017 Information data has been received
+
+时间:2017-06-08 14:01:38信息:Thu Jun 08 14:01:38 CST 2017 result=3
+
+时间:2017-06-08 14:01:38信息:Thu Jun 08 14:01:38 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:01:38信息:Thu Jun 08 14:01:38 CST 2017 Preference data has been received
+
+时间:2017-06-08 14:02:10信息:Thu Jun 08 14:02:10 CST 2017 channel=121
+
+时间:2017-06-08 14:02:10信息:Thu Jun 08 14:02:10 CST 2017 command:121;channel=121;imei = 864294038496919
+
+时间:2017-06-08 14:02:10信息:Thu Jun 08 14:02:10 CST 2017 channel=234
+
+时间:2017-06-08 14:02:10信息:Thu Jun 08 14:02:10 CST 2017 command:21;channel=234;imei = 864294038496919
+
+时间:2017-06-08 14:02:11信息:Thu Jun 08 14:02:11 CST 2017 result=3
+
+时间:2017-06-08 14:02:11信息:Thu Jun 08 14:02:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:02:11信息:Thu Jun 08 14:02:11 CST 2017 Preference data has been received
+
+时间:2017-06-08 14:02:11信息:Thu Jun 08 14:02:11 CST 2017 result=3
+
+时间:2017-06-08 14:02:11信息:Thu Jun 08 14:02:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:02:11信息:Thu Jun 08 14:02:11 CST 2017 Information data has been received
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 channel=276
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 command:121;channel=276;imei = 864294038496919
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 channel=590
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 command:21;channel=590;imei = 864294038496919
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 result=3
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:02:19信息:Thu Jun 08 14:02:19 CST 2017 Information data has been received
+
+时间:2017-06-08 14:02:20信息:Thu Jun 08 14:02:20 CST 2017 result=3
+
+时间:2017-06-08 14:02:20信息:Thu Jun 08 14:02:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:02:20信息:Thu Jun 08 14:02:20 CST 2017 Preference data has been received
+
+时间:2017-06-08 14:02:53信息:Thu Jun 08 14:02:53 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:03:05信息:Thu Jun 08 14:03:05 CST 2017 channel=329
+
+时间:2017-06-08 14:03:05信息:Thu Jun 08 14:03:05 CST 2017 command:121;channel=329;imei = 357657050258082
+
+时间:2017-06-08 14:03:05信息:Thu Jun 08 14:03:05 CST 2017 channel=362
+
+时间:2017-06-08 14:03:05信息:Thu Jun 08 14:03:05 CST 2017 command:21;channel=362;imei = 357657050258082
+
+时间:2017-06-08 14:03:06信息:Thu Jun 08 14:03:06 CST 2017 channel=335
+
+时间:2017-06-08 14:03:06信息:Thu Jun 08 14:03:06 CST 2017 command:121;channel=335;imei = 357657050258082
+
+时间:2017-06-08 14:03:06信息:Thu Jun 08 14:03:06 CST 2017 channel=100
+
+时间:2017-06-08 14:03:06信息:Thu Jun 08 14:03:06 CST 2017 command:21;channel=100;imei = 357657050258082
+
+时间:2017-06-08 14:03:12信息:Thu Jun 08 14:03:12 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:03:12信息:Thu Jun 08 14:03:12 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:03:12信息:Thu Jun 08 14:03:12 CST 2017 result=3
+
+时间:2017-06-08 14:03:12信息:Thu Jun 08 14:03:12 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:03:12信息:Thu Jun 08 14:03:12 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 channel=12
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 command:121;channel=12;imei = 864294038496919
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 channel=237
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 command:21;channel=237;imei = 864294038496919
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 result=3
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:03:19信息:Thu Jun 08 14:03:19 CST 2017 Information data has been received
+
+时间:2017-06-08 14:03:20信息:Thu Jun 08 14:03:20 CST 2017 result=3
+
+时间:2017-06-08 14:03:20信息:Thu Jun 08 14:03:20 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:03:20信息:Thu Jun 08 14:03:20 CST 2017 Preference data has been received
+
+时间:2017-06-08 14:03:59信息:Thu Jun 08 14:03:59 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 14:04:05信息:Thu Jun 08 14:04:05 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:04:05信息:Thu Jun 08 14:04:05 CST 2017 result=3
+
+时间:2017-06-08 14:04:05信息:Thu Jun 08 14:04:05 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:04:05信息:Thu Jun 08 14:04:05 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:04:05信息:Thu Jun 08 14:04:05 CST 2017 CONNECT command received from 357657050258082
+
+时间:2017-06-08 14:05:46信息:Thu Jun 08 14:05:46 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:05:49信息:Thu Jun 08 14:05:49 CST 2017 channel=724
+
+时间:2017-06-08 14:05:49信息:Thu Jun 08 14:05:49 CST 2017 command:121;channel=724;imei = 357657050258082
+
+时间:2017-06-08 14:05:49信息:Thu Jun 08 14:05:49 CST 2017 channel=134
+
+时间:2017-06-08 14:05:49信息:Thu Jun 08 14:05:49 CST 2017 command:21;channel=134;imei = 357657050258082
+
+时间:2017-06-08 14:05:58信息:Thu Jun 08 14:05:58 CST 2017 channel=475
+
+时间:2017-06-08 14:05:58信息:Thu Jun 08 14:05:58 CST 2017 command:112;channel=475;imei = 357657050258082
+
+时间:2017-06-08 14:06:03信息:Thu Jun 08 14:06:03 CST 2017 channel=82
+
+时间:2017-06-08 14:06:03信息:Thu Jun 08 14:06:03 CST 2017 command:124;channel=82;imei = 357657050258082
+
+时间:2017-06-08 14:06:08信息:Thu Jun 08 14:06:08 CST 2017 channel=934
+
+时间:2017-06-08 14:06:09信息:Thu Jun 08 14:06:09 CST 2017 channel=433
+
+时间:2017-06-08 14:06:12信息:Thu Jun 08 14:06:12 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:06:12信息:Thu Jun 08 14:06:12 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:06:12信息:Thu Jun 08 14:06:12 CST 2017 result=3
+
+时间:2017-06-08 14:06:12信息:Thu Jun 08 14:06:12 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:06:12信息:Thu Jun 08 14:06:12 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 channel=685
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 command:121;channel=685;imei = 864294038496919
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 channel=297
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 command:21;channel=297;imei = 864294038496919
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 result=3
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 Preference data has been received
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 result=3
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:06:19信息:Thu Jun 08 14:06:19 CST 2017 Information data has been received
+
+时间:2017-06-08 14:08:45信息:Thu Jun 08 14:08:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:09:11信息:Thu Jun 08 14:09:10 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:09:12信息:Thu Jun 08 14:09:12 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:09:12信息:Thu Jun 08 14:09:12 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:09:12信息:Thu Jun 08 14:09:12 CST 2017 result=3
+
+时间:2017-06-08 14:09:12信息:Thu Jun 08 14:09:12 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:09:12信息:Thu Jun 08 14:09:12 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:11:43信息:Thu Jun 08 14:11:43 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:11:43信息:Thu Jun 08 14:11:43 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:11:43信息:Thu Jun 08 14:11:43 CST 2017 result=3
+
+时间:2017-06-08 14:11:43信息:Thu Jun 08 14:11:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:11:43信息:Thu Jun 08 14:11:43 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:12:02信息:Thu Jun 08 14:12:02 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:14:13信息:Thu Jun 08 14:14:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:14:13信息:Thu Jun 08 14:14:13 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:14:14信息:Thu Jun 08 14:14:14 CST 2017 result=3
+
+时间:2017-06-08 14:14:14信息:Thu Jun 08 14:14:14 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:14:14信息:Thu Jun 08 14:14:14 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:14:21信息:Thu Jun 08 14:14:21 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 14:17:44信息:Thu Jun 08 14:17:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:17:44信息:Thu Jun 08 14:17:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:17:44信息:Thu Jun 08 14:17:44 CST 2017 result=3
+
+时间:2017-06-08 14:17:44信息:Thu Jun 08 14:17:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:17:44信息:Thu Jun 08 14:17:44 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:20:33信息:Thu Jun 08 14:20:33 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:20:39信息:Thu Jun 08 14:20:39 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 14:22:16信息:Thu Jun 08 14:22:16 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:22:16信息:Thu Jun 08 14:22:16 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:22:16信息:Thu Jun 08 14:22:16 CST 2017 result=3
+
+时间:2017-06-08 14:22:16信息:Thu Jun 08 14:22:16 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:22:16信息:Thu Jun 08 14:22:16 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:23:38信息:Thu Jun 08 14:23:38 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:23:39信息:Thu Jun 08 14:23:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:23:39信息:Thu Jun 08 14:23:39 CST 2017 result=3
+
+时间:2017-06-08 14:23:39信息:Thu Jun 08 14:23:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:23:39信息:Thu Jun 08 14:23:39 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:23:39信息:Thu Jun 08 14:23:39 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:24:20信息:Thu Jun 08 14:24:20 CST 2017 Client ended gently !
+
+时间:2017-06-08 14:24:24信息:Thu Jun 08 14:24:24 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:24:25信息:Thu Jun 08 14:24:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:24:25信息:Thu Jun 08 14:24:25 CST 2017 result=3
+
+时间:2017-06-08 14:24:25信息:Thu Jun 08 14:24:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:24:25信息:Thu Jun 08 14:24:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:24:25信息:Thu Jun 08 14:24:25 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:28:03信息:Thu Jun 08 14:28:03 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:28:15信息:Thu Jun 08 14:28:15 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:28:15信息:Thu Jun 08 14:28:15 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:28:15信息:Thu Jun 08 14:28:15 CST 2017 result=3
+
+时间:2017-06-08 14:28:15信息:Thu Jun 08 14:28:15 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:28:15信息:Thu Jun 08 14:28:15 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:32:41信息:Thu Jun 08 14:32:41 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:32:42信息:Thu Jun 08 14:32:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:32:42信息:Thu Jun 08 14:32:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:32:43信息:Thu Jun 08 14:32:43 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 14:33:42信息:Thu Jun 08 14:33:42 CST 2017 result=3
+
+时间:2017-06-08 14:33:42信息:Thu Jun 08 14:33:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:33:42信息:Thu Jun 08 14:33:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:33:42信息:Thu Jun 08 14:33:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:33:42信息:Thu Jun 08 14:33:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:35:41信息:Thu Jun 08 14:35:41 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:36:58信息:Thu Jun 08 14:36:58 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:36:58信息:Thu Jun 08 14:36:58 CST 2017 result=3
+
+时间:2017-06-08 14:36:58信息:Thu Jun 08 14:36:58 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:36:58信息:Thu Jun 08 14:36:58 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:36:58信息:Thu Jun 08 14:36:58 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:38:49信息:Thu Jun 08 14:38:49 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:39:31信息:Thu Jun 08 14:39:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:39:31信息:Thu Jun 08 14:39:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:39:31信息:Thu Jun 08 14:39:31 CST 2017 result=3
+
+时间:2017-06-08 14:39:31信息:Thu Jun 08 14:39:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:39:31信息:Thu Jun 08 14:39:31 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:42:10信息:Thu Jun 08 14:42:10 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:42:11信息:Thu Jun 08 14:42:11 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:42:11信息:Thu Jun 08 14:42:11 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:42:11信息:Thu Jun 08 14:42:11 CST 2017 result=3
+
+时间:2017-06-08 14:42:11信息:Thu Jun 08 14:42:11 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:42:11信息:Thu Jun 08 14:42:11 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:45:01信息:Thu Jun 08 14:45:01 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:45:54信息:Thu Jun 08 14:45:54 CST 2017 result=3
+
+时间:2017-06-08 14:45:54信息:Thu Jun 08 14:45:54 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:45:54信息:Thu Jun 08 14:45:54 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:45:54信息:Thu Jun 08 14:45:54 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:45:54信息:Thu Jun 08 14:45:54 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:49:48信息:Thu Jun 08 14:49:48 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:49:50信息:Thu Jun 08 14:49:50 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:49:50信息:Thu Jun 08 14:49:50 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:49:50信息:Thu Jun 08 14:49:50 CST 2017 result=3
+
+时间:2017-06-08 14:49:50信息:Thu Jun 08 14:49:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:49:50信息:Thu Jun 08 14:49:50 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:50:55信息:Thu Jun 08 14:50:55 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:50:56信息:Thu Jun 08 14:50:56 CST 2017 result=3
+
+时间:2017-06-08 14:50:56信息:Thu Jun 08 14:50:56 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:50:56信息:Thu Jun 08 14:50:56 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:50:56信息:Thu Jun 08 14:50:56 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:50:57信息:Thu Jun 08 14:50:57 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:53:32信息:Thu Jun 08 14:53:32 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:53:34信息:Thu Jun 08 14:53:34 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:53:34信息:Thu Jun 08 14:53:34 CST 2017 result=3
+
+时间:2017-06-08 14:53:34信息:Thu Jun 08 14:53:34 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:53:34信息:Thu Jun 08 14:53:34 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:53:34信息:Thu Jun 08 14:53:34 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:56:30信息:Thu Jun 08 14:56:30 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:57:28信息:Thu Jun 08 14:57:28 CST 2017 result=3
+
+时间:2017-06-08 14:57:28信息:Thu Jun 08 14:57:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:57:28信息:Thu Jun 08 14:57:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:57:28信息:Thu Jun 08 14:57:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:57:28信息:Thu Jun 08 14:57:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 14:59:02信息:Thu Jun 08 14:59:02 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 14:59:28信息:Thu Jun 08 14:59:28 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 14:59:28信息:Thu Jun 08 14:59:28 CST 2017 result=3
+
+时间:2017-06-08 14:59:28信息:Thu Jun 08 14:59:28 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 14:59:28信息:Thu Jun 08 14:59:28 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 14:59:28信息:Thu Jun 08 14:59:28 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:02:41信息:Thu Jun 08 15:02:41 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:02:42信息:Thu Jun 08 15:02:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:02:42信息:Thu Jun 08 15:02:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:02:42信息:Thu Jun 08 15:02:42 CST 2017 result=3
+
+时间:2017-06-08 15:02:42信息:Thu Jun 08 15:02:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:02:42信息:Thu Jun 08 15:02:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:05:07信息:Thu Jun 08 15:05:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:05:09信息:Thu Jun 08 15:05:09 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:05:09信息:Thu Jun 08 15:05:09 CST 2017 result=3
+
+时间:2017-06-08 15:05:09信息:Thu Jun 08 15:05:09 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:05:09信息:Thu Jun 08 15:05:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:05:09信息:Thu Jun 08 15:05:09 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:09:41信息:Thu Jun 08 15:09:41 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:09:42信息:Thu Jun 08 15:09:42 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:09:42信息:Thu Jun 08 15:09:42 CST 2017 result=3
+
+时间:2017-06-08 15:09:42信息:Thu Jun 08 15:09:42 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:09:42信息:Thu Jun 08 15:09:42 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:09:42信息:Thu Jun 08 15:09:42 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:10:04信息:Thu Jun 08 15:10:04 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:10:32信息:Thu Jun 08 15:10:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:10:32信息:Thu Jun 08 15:10:32 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:10:32信息:Thu Jun 08 15:10:32 CST 2017 result=3
+
+时间:2017-06-08 15:10:32信息:Thu Jun 08 15:10:32 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:10:32信息:Thu Jun 08 15:10:32 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:13:00信息:Thu Jun 08 15:13:00 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:13:58信息:Thu Jun 08 15:13:58 CST 2017 result=3
+
+时间:2017-06-08 15:13:58信息:Thu Jun 08 15:13:58 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:13:58信息:Thu Jun 08 15:13:58 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:13:58信息:Thu Jun 08 15:13:58 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:13:58信息:Thu Jun 08 15:13:58 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:17:08信息:Thu Jun 08 15:17:08 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:17:09信息:Thu Jun 08 15:17:09 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:17:09信息:Thu Jun 08 15:17:09 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:17:09信息:Thu Jun 08 15:17:09 CST 2017 result=3
+
+时间:2017-06-08 15:17:09信息:Thu Jun 08 15:17:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:17:09信息:Thu Jun 08 15:17:09 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:19:01信息:Thu Jun 08 15:19:01 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:19:30信息:Thu Jun 08 15:19:30 CST 2017 result=3
+
+时间:2017-06-08 15:19:30信息:Thu Jun 08 15:19:30 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:19:30信息:Thu Jun 08 15:19:30 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:19:30信息:Thu Jun 08 15:19:30 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:19:30信息:Thu Jun 08 15:19:30 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:22:02信息:Thu Jun 08 15:22:02 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:22:31信息:Thu Jun 08 15:22:31 CST 2017 result=3
+
+时间:2017-06-08 15:22:31信息:Thu Jun 08 15:22:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:22:31信息:Thu Jun 08 15:22:31 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:22:31信息:Thu Jun 08 15:22:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:22:31信息:Thu Jun 08 15:22:31 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:25:31信息:Thu Jun 08 15:25:31 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:25:32信息:Thu Jun 08 15:25:32 CST 2017 result=3
+
+时间:2017-06-08 15:25:32信息:Thu Jun 08 15:25:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:25:32信息:Thu Jun 08 15:25:32 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:25:32信息:Thu Jun 08 15:25:32 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:25:32信息:Thu Jun 08 15:25:32 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:29:17信息:Thu Jun 08 15:29:17 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:29:18信息:Thu Jun 08 15:29:18 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:29:18信息:Thu Jun 08 15:29:18 CST 2017 result=3
+
+时间:2017-06-08 15:29:18信息:Thu Jun 08 15:29:18 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:29:18信息:Thu Jun 08 15:29:18 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:29:18信息:Thu Jun 08 15:29:18 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:31:07信息:Thu Jun 08 15:31:07 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:31:36信息:Thu Jun 08 15:31:36 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:31:36信息:Thu Jun 08 15:31:36 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:31:36信息:Thu Jun 08 15:31:36 CST 2017 result=3
+
+时间:2017-06-08 15:31:36信息:Thu Jun 08 15:31:36 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:31:36信息:Thu Jun 08 15:31:36 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:34:20信息:Thu Jun 08 15:34:20 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:34:33信息:Thu Jun 08 15:34:33 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:34:33信息:Thu Jun 08 15:34:33 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:34:33信息:Thu Jun 08 15:34:33 CST 2017 result=3
+
+时间:2017-06-08 15:34:33信息:Thu Jun 08 15:34:33 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:34:33信息:Thu Jun 08 15:34:33 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:37:44信息:Thu Jun 08 15:37:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:37:51信息:Thu Jun 08 15:37:51 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:37:51信息:Thu Jun 08 15:37:51 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:38:01信息:Thu Jun 08 15:38:01 CST 2017 result=3
+
+时间:2017-06-08 15:38:01信息:Thu Jun 08 15:38:01 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:38:01信息:Thu Jun 08 15:38:01 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 channel=298
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 command:121;channel=298;imei = 864294038496919
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 channel=14
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 command:21;channel=14;imei = 864294038496919
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 result=3
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:38:59信息:Thu Jun 08 15:38:59 CST 2017 Preference data has been received
+
+时间:2017-06-08 15:39:07信息:Thu Jun 08 15:39:07 CST 2017 result=3
+
+时间:2017-06-08 15:39:07信息:Thu Jun 08 15:39:07 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:39:07信息:Thu Jun 08 15:39:07 CST 2017 Information data has been received
+
+时间:2017-06-08 15:39:18信息:Thu Jun 08 15:39:18 CST 2017 channel=21
+
+时间:2017-06-08 15:39:18信息:Thu Jun 08 15:39:18 CST 2017 command:121;channel=21;imei = 864294038496919
+
+时间:2017-06-08 15:39:18信息:Thu Jun 08 15:39:18 CST 2017 channel=529
+
+时间:2017-06-08 15:39:18信息:Thu Jun 08 15:39:18 CST 2017 command:21;channel=529;imei = 864294038496919
+
+时间:2017-06-08 15:39:22信息:Thu Jun 08 15:39:22 CST 2017 result=3
+
+时间:2017-06-08 15:39:22信息:Thu Jun 08 15:39:22 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:39:22信息:Thu Jun 08 15:39:22 CST 2017 Information data has been received
+
+时间:2017-06-08 15:39:26信息:Thu Jun 08 15:39:26 CST 2017 result=3
+
+时间:2017-06-08 15:39:26信息:Thu Jun 08 15:39:26 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:39:26信息:Thu Jun 08 15:39:26 CST 2017 Preference data has been received
+
+时间:2017-06-08 15:39:35信息:Thu Jun 08 15:39:35 CST 2017 channel=154
+
+时间:2017-06-08 15:39:35信息:Thu Jun 08 15:39:35 CST 2017 command:121;channel=154;imei = 864294038496919
+
+时间:2017-06-08 15:39:35信息:Thu Jun 08 15:39:35 CST 2017 channel=749
+
+时间:2017-06-08 15:39:35信息:Thu Jun 08 15:39:35 CST 2017 command:21;channel=749;imei = 864294038496919
+
+时间:2017-06-08 15:39:40信息:Thu Jun 08 15:39:40 CST 2017 result=3
+
+时间:2017-06-08 15:39:40信息:Thu Jun 08 15:39:40 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:39:40信息:Thu Jun 08 15:39:40 CST 2017 Information data has been received
+
+时间:2017-06-08 15:39:48信息:Thu Jun 08 15:39:48 CST 2017 result=3
+
+时间:2017-06-08 15:39:48信息:Thu Jun 08 15:39:48 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:39:48信息:Thu Jun 08 15:39:48 CST 2017 Preference data has been received
+
+时间:2017-06-08 15:40:37信息:Thu Jun 08 15:40:37 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:40:39信息:Thu Jun 08 15:40:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:40:39信息:Thu Jun 08 15:40:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:40:41信息:Thu Jun 08 15:40:41 CST 2017 result=3
+
+时间:2017-06-08 15:40:41信息:Thu Jun 08 15:40:41 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:40:41信息:Thu Jun 08 15:40:41 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:43:29信息:Thu Jun 08 15:43:29 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:43:33信息:Thu Jun 08 15:43:33 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:43:33信息:Thu Jun 08 15:43:33 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:43:35信息:Thu Jun 08 15:43:35 CST 2017 result=3
+
+时间:2017-06-08 15:43:35信息:Thu Jun 08 15:43:35 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:43:35信息:Thu Jun 08 15:43:35 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:46:14信息:Thu Jun 08 15:46:14 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:46:15信息:Thu Jun 08 15:46:15 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:46:15信息:Thu Jun 08 15:46:15 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:46:16信息:Thu Jun 08 15:46:16 CST 2017 result=3
+
+时间:2017-06-08 15:46:16信息:Thu Jun 08 15:46:16 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:46:16信息:Thu Jun 08 15:46:16 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:49:52信息:Thu Jun 08 15:49:52 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:49:53信息:Thu Jun 08 15:49:53 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:49:53信息:Thu Jun 08 15:49:53 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:49:54信息:Thu Jun 08 15:49:54 CST 2017 result=3
+
+时间:2017-06-08 15:49:54信息:Thu Jun 08 15:49:54 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:49:54信息:Thu Jun 08 15:49:54 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:52:33信息:Thu Jun 08 15:52:33 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:52:35信息:Thu Jun 08 15:52:35 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:52:35信息:Thu Jun 08 15:52:35 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:52:36信息:Thu Jun 08 15:52:36 CST 2017 result=3
+
+时间:2017-06-08 15:52:36信息:Thu Jun 08 15:52:36 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:52:36信息:Thu Jun 08 15:52:36 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:55:19信息:Thu Jun 08 15:55:19 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:55:21信息:Thu Jun 08 15:55:21 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:55:21信息:Thu Jun 08 15:55:21 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:55:25信息:Thu Jun 08 15:55:25 CST 2017 result=3
+
+时间:2017-06-08 15:55:25信息:Thu Jun 08 15:55:25 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:55:25信息:Thu Jun 08 15:55:25 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 15:58:38信息:Thu Jun 08 15:58:38 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 15:58:39信息:Thu Jun 08 15:58:39 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 15:58:39信息:Thu Jun 08 15:58:39 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 15:58:39信息:Thu Jun 08 15:58:39 CST 2017 result=3
+
+时间:2017-06-08 15:58:39信息:Thu Jun 08 15:58:39 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 15:58:39信息:Thu Jun 08 15:58:39 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:01:16信息:Thu Jun 08 16:01:16 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:01:17信息:Thu Jun 08 16:01:17 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:01:17信息:Thu Jun 08 16:01:17 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:01:17信息:Thu Jun 08 16:01:17 CST 2017 result=3
+
+时间:2017-06-08 16:01:17信息:Thu Jun 08 16:01:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:01:17信息:Thu Jun 08 16:01:17 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:04:20信息:Thu Jun 08 16:04:20 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:04:22信息:Thu Jun 08 16:04:22 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:04:22信息:Thu Jun 08 16:04:22 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:06:48信息:Thu Jun 08 16:06:48 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 16:06:50信息:Thu Jun 08 16:06:50 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:06:50信息:Thu Jun 08 16:06:50 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:06:50信息:Thu Jun 08 16:06:50 CST 2017 result=3
+
+时间:2017-06-08 16:06:50信息:Thu Jun 08 16:06:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:06:50信息:Thu Jun 08 16:06:50 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:09:14信息:Thu Jun 08 16:09:14 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:09:16信息:Thu Jun 08 16:09:16 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:09:16信息:Thu Jun 08 16:09:16 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:09:17信息:Thu Jun 08 16:09:17 CST 2017 result=3
+
+时间:2017-06-08 16:09:17信息:Thu Jun 08 16:09:17 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:09:17信息:Thu Jun 08 16:09:17 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:12:58信息:Thu Jun 08 16:12:58 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:12:59信息:Thu Jun 08 16:12:59 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:12:59信息:Thu Jun 08 16:12:59 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:13:00信息:Thu Jun 08 16:13:00 CST 2017 result=3
+
+时间:2017-06-08 16:13:00信息:Thu Jun 08 16:13:00 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:13:00信息:Thu Jun 08 16:13:00 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:15:23信息:Thu Jun 08 16:15:23 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:15:31信息:Thu Jun 08 16:15:31 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:15:31信息:Thu Jun 08 16:15:31 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:15:48信息:Thu Jun 08 16:15:48 CST 2017 result=3
+
+时间:2017-06-08 16:15:48信息:Thu Jun 08 16:15:48 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:15:48信息:Thu Jun 08 16:15:48 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:25:30信息:Thu Jun 08 16:25:30 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:25:32信息:Thu Jun 08 16:25:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:25:32信息:Thu Jun 08 16:25:32 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:25:33信息:Thu Jun 08 16:25:33 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:25:33信息:Thu Jun 08 16:25:33 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:25:37信息:Thu Jun 08 16:25:37 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 16:25:38信息:Thu Jun 08 16:25:38 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:25:38信息:Thu Jun 08 16:25:38 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:25:38信息:Thu Jun 08 16:25:38 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 16:25:39信息:Thu Jun 08 16:25:39 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 16:27:31信息:Thu Jun 08 16:27:31 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 16:27:32信息:Thu Jun 08 16:27:32 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:27:32信息:Thu Jun 08 16:27:32 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:27:35信息:Thu Jun 08 16:27:35 CST 2017 result=3
+
+时间:2017-06-08 16:27:35信息:Thu Jun 08 16:27:35 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:27:35信息:Thu Jun 08 16:27:35 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:39:04信息:Thu Jun 08 16:39:04 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:39:06信息:Thu Jun 08 16:39:06 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:39:06信息:Thu Jun 08 16:39:06 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:39:45信息:Thu Jun 08 16:39:45 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 16:39:46信息:Thu Jun 08 16:39:46 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:39:46信息:Thu Jun 08 16:39:46 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:39:47信息:Thu Jun 08 16:39:47 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:39:47信息:Thu Jun 08 16:39:47 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:40:52信息:Thu Jun 08 16:40:52 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 16:40:52信息:Thu Jun 08 16:40:52 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:40:52信息:Thu Jun 08 16:40:52 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:40:53信息:Thu Jun 08 16:40:53 CST 2017 result=3
+
+时间:2017-06-08 16:40:53信息:Thu Jun 08 16:40:53 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:40:53信息:Thu Jun 08 16:40:53 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:40:55信息:Thu Jun 08 16:40:55 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 16:41:35信息:Thu Jun 08 16:41:35 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:41:44信息:Thu Jun 08 16:41:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:41:44信息:Thu Jun 08 16:41:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:41:45信息:Thu Jun 08 16:41:45 CST 2017 result=3
+
+时间:2017-06-08 16:41:45信息:Thu Jun 08 16:41:45 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:41:45信息:Thu Jun 08 16:41:45 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 16:49:15信息:Thu Jun 08 16:49:15 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:49:15信息:Thu Jun 08 16:49:15 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:49:15信息:Thu Jun 08 16:49:15 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 16:49:16信息:Thu Jun 08 16:49:16 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:49:16信息:Thu Jun 08 16:49:16 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:49:17信息:Thu Jun 08 16:49:17 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 16:49:18信息:Thu Jun 08 16:49:18 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 16:50:41信息:Thu Jun 08 16:50:41 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 16:50:44信息:Thu Jun 08 16:50:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 16:50:44信息:Thu Jun 08 16:50:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 16:50:53信息:Thu Jun 08 16:50:53 CST 2017 result=3
+
+时间:2017-06-08 16:50:53信息:Thu Jun 08 16:50:53 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 16:50:53信息:Thu Jun 08 16:50:53 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:07:23信息:Thu Jun 08 17:07:23 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:07:23信息:Thu Jun 08 17:07:23 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:07:23信息:Thu Jun 08 17:07:23 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:07:24信息:Thu Jun 08 17:07:24 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:07:24信息:Thu Jun 08 17:07:24 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:07:24信息:Thu Jun 08 17:07:24 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:07:24信息:Thu Jun 08 17:07:24 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:07:24信息:Thu Jun 08 17:07:24 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:07:24信息:Thu Jun 08 17:07:24 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:07:25信息:Thu Jun 08 17:07:25 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:07:25信息:Thu Jun 08 17:07:25 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:07:26信息:Thu Jun 08 17:07:26 CST 2017 Client 0client has been deleted due to it's disonnection
+
+时间:2017-06-08 17:07:26信息:Thu Jun 08 17:07:26 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 17:07:27信息:Thu Jun 08 17:07:27 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 17:07:28信息:Thu Jun 08 17:07:28 CST 2017 ERROR: received data is from an unknown client
+
+时间:2017-06-08 17:07:28信息:Thu Jun 08 17:07:28 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 17:08:53信息:Thu Jun 08 17:08:53 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 17:09:26信息:Thu Jun 08 17:09:26 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:09:45信息:Thu Jun 08 17:09:45 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:09:45信息:Thu Jun 08 17:09:45 CST 2017 result=3
+
+时间:2017-06-08 17:09:45信息:Thu Jun 08 17:09:45 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:09:45信息:Thu Jun 08 17:09:45 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:09:45信息:Thu Jun 08 17:09:45 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 channel=686
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 command:121;channel=686;imei = 864294038496919
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 channel=305
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 command:21;channel=305;imei = 864294038496919
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 result=3
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:09:50信息:Thu Jun 08 17:09:50 CST 2017 Preference data has been received
+
+时间:2017-06-08 17:09:51信息:Thu Jun 08 17:09:51 CST 2017 result=3
+
+时间:2017-06-08 17:09:51信息:Thu Jun 08 17:09:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:09:51信息:Thu Jun 08 17:09:51 CST 2017 Information data has been received
+
+时间:2017-06-08 17:12:45信息:Thu Jun 08 17:12:45 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:12:45信息:Thu Jun 08 17:12:45 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:12:45信息:Thu Jun 08 17:12:45 CST 2017 result=3
+
+时间:2017-06-08 17:12:45信息:Thu Jun 08 17:12:45 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:12:45信息:Thu Jun 08 17:12:45 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:12:51信息:Thu Jun 08 17:12:51 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:15:46信息:Thu Jun 08 17:15:46 CST 2017 0clientclient's data couldnt't be deleted after it's disonnection
+
+时间:2017-06-08 17:15:46信息:Thu Jun 08 17:15:46 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:15:46信息:Thu Jun 08 17:15:46 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:15:46信息:Thu Jun 08 17:15:46 CST 2017 result=3
+
+时间:2017-06-08 17:15:46信息:Thu Jun 08 17:15:46 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:15:46信息:Thu Jun 08 17:15:46 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:18:46信息:Thu Jun 08 17:18:46 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:18:46信息:Thu Jun 08 17:18:46 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:18:46信息:Thu Jun 08 17:18:46 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:18:46信息:Thu Jun 08 17:18:46 CST 2017 result=3
+
+时间:2017-06-08 17:18:46信息:Thu Jun 08 17:18:46 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:18:46信息:Thu Jun 08 17:18:46 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:21:47信息:Thu Jun 08 17:21:47 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:21:47信息:Thu Jun 08 17:21:47 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:21:47信息:Thu Jun 08 17:21:47 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:21:47信息:Thu Jun 08 17:21:47 CST 2017 result=3
+
+时间:2017-06-08 17:21:47信息:Thu Jun 08 17:21:47 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:21:47信息:Thu Jun 08 17:21:47 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:24:47信息:Thu Jun 08 17:24:47 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:24:47信息:Thu Jun 08 17:24:47 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:24:47信息:Thu Jun 08 17:24:47 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:24:47信息:Thu Jun 08 17:24:47 CST 2017 result=3
+
+时间:2017-06-08 17:24:47信息:Thu Jun 08 17:24:47 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:24:47信息:Thu Jun 08 17:24:47 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:25:47信息:Thu Jun 08 17:25:47 CST 2017 Client ended gently !
+
+时间:2017-06-08 17:25:47信息:Thu Jun 08 17:25:47 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:35:29信息:Thu Jun 08 17:35:29 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:35:54信息:Thu Jun 08 17:35:54 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:35:54信息:Thu Jun 08 17:35:54 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:35:54信息:Thu Jun 08 17:35:54 CST 2017 result=3
+
+时间:2017-06-08 17:35:54信息:Thu Jun 08 17:35:54 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:35:54信息:Thu Jun 08 17:35:54 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:36:08信息:Thu Jun 08 17:36:08 CST 2017 channel=219
+
+时间:2017-06-08 17:36:08信息:Thu Jun 08 17:36:08 CST 2017 command:121;channel=219;imei = 864294038496919
+
+时间:2017-06-08 17:36:08信息:Thu Jun 08 17:36:08 CST 2017 channel=557
+
+时间:2017-06-08 17:36:08信息:Thu Jun 08 17:36:08 CST 2017 command:21;channel=557;imei = 864294038496919
+
+时间:2017-06-08 17:36:09信息:Thu Jun 08 17:36:09 CST 2017 result=3
+
+时间:2017-06-08 17:36:09信息:Thu Jun 08 17:36:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:36:09信息:Thu Jun 08 17:36:09 CST 2017 Preference data has been received
+
+时间:2017-06-08 17:36:09信息:Thu Jun 08 17:36:09 CST 2017 result=3
+
+时间:2017-06-08 17:36:09信息:Thu Jun 08 17:36:09 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:36:09信息:Thu Jun 08 17:36:09 CST 2017 Information data has been received
+
+时间:2017-06-08 17:38:45信息:Thu Jun 08 17:38:45 CST 2017 Client ended gently !
+
+时间:2017-06-08 17:38:45信息:Thu Jun 08 17:38:45 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:39:43信息:Thu Jun 08 17:39:43 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:39:43信息:Thu Jun 08 17:39:43 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:39:43信息:Thu Jun 08 17:39:43 CST 2017 result=3
+
+时间:2017-06-08 17:39:43信息:Thu Jun 08 17:39:43 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:39:43信息:Thu Jun 08 17:39:43 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:40:44信息:Thu Jun 08 17:40:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:41:13信息:Thu Jun 08 17:41:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:41:13信息:Thu Jun 08 17:41:13 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:41:13信息:Thu Jun 08 17:41:13 CST 2017 result=3
+
+时间:2017-06-08 17:41:13信息:Thu Jun 08 17:41:13 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:41:13信息:Thu Jun 08 17:41:13 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 channel=690
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 command:121;channel=690;imei = 864294038496919
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 channel=936
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 command:21;channel=936;imei = 864294038496919
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 result=3
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 Preference data has been received
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 result=3
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:41:51信息:Thu Jun 08 17:41:51 CST 2017 Information data has been received
+
+时间:2017-06-08 17:42:44信息:Thu Jun 08 17:42:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:43:13信息:Thu Jun 08 17:43:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:43:13信息:Thu Jun 08 17:43:13 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:43:13信息:Thu Jun 08 17:43:13 CST 2017 result=3
+
+时间:2017-06-08 17:43:13信息:Thu Jun 08 17:43:13 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:43:13信息:Thu Jun 08 17:43:13 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:44:44信息:Thu Jun 08 17:44:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:45:13信息:Thu Jun 08 17:45:13 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:45:13信息:Thu Jun 08 17:45:13 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:45:14信息:Thu Jun 08 17:45:14 CST 2017 result=3
+
+时间:2017-06-08 17:45:14信息:Thu Jun 08 17:45:14 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:45:14信息:Thu Jun 08 17:45:14 CST 2017 CONNECT command received from 864294038496919
+
+时间:2017-06-08 17:45:22信息:Thu Jun 08 17:45:22 CST 2017 channel=295
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 command:121;channel=295;imei = 864294038496919
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 channel=719
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 command:21;channel=719;imei = 864294038496919
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 result=3
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 Preference data has been received
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 result=3
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:45:23信息:Thu Jun 08 17:45:23 CST 2017 Information data has been received
+
+时间:2017-06-08 17:46:44信息:Thu Jun 08 17:46:44 CST 2017 Client 864294038496919 has been deleted due to it's disonnection
+
+时间:2017-06-08 17:46:44信息:Thu Jun 08 17:46:44 CST 2017 Connection established,temporary IMEI was assigned: 0client
+
+时间:2017-06-08 17:46:44信息:Thu Jun 08 17:46:44 CST 2017 SERVER online, awaiting for a client...
+
+时间:2017-06-08 17:46:44信息:Thu Jun 08 17:46:44 CST 2017 result=3
+
+时间:2017-06-08 17:46:44信息:Thu Jun 08 17:46:44 CST 2017 Transfer completed successfully!
+
+时间:2017-06-08 17:46:44信息:Thu Jun 08 17:46:44 CST 2017 CONNECT command received from 864294038496919
+
